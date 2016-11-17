@@ -81,6 +81,16 @@
   },
   {
     "status": "Official",
+    "port": 21,
+    "description": "File Transfer Protocol (FTP) control (command)"
+  },
+  {
+    "status": "Official",
+    "port": 22,
+    "description": "Secure Shell (SSH), secure logins, file transfers (scp, sftp) and port forwarding"
+  },
+  {
+    "status": "Official",
     "port": 23,
     "description": "Telnet protocol—unencrypted text communications"
   },
@@ -208,6 +218,11 @@
     "status": "Official",
     "port": 79,
     "description": "Finger protocol"
+  },
+  {
+    "status": "Official",
+    "port": 80,
+    "description": "Hypertext Transfer Protocol (HTTP)"
   },
   {
     "status": "Unofficial",
@@ -391,6 +406,11 @@
   },
   {
     "status": "Official",
+    "port": 179,
+    "description": "Border Gateway Protocol (BGP), used to exchange routing and reachability information among autonomous systems (AS) on the Internet"
+  },
+  {
+    "status": "Official",
     "port": 194,
     "description": "Internet Relay Chat (IRC)"
   },
@@ -548,6 +568,11 @@
     "status": "Official",
     "port": 434,
     "description": "Mobile IP Agent (RFC 5944)"
+  },
+  {
+    "status": "Official",
+    "port": 443,
+    "description": "Hypertext Transfer Protocol over TLS/SSL (HTTPS)"
   },
   {
     "status": "Official",
@@ -1176,6 +1201,11 @@
   },
   {
     "status": "Official",
+    "port": 1167,
+    "description": "Cisco IP SLA (Service Assurance Agent)"
+  },
+  {
+    "status": "Official",
     "port": 1194,
     "description": "OpenVPN"
   },
@@ -1548,6 +1578,11 @@
     "status": "Unofficial",
     "port": 2033,
     "description": "Civilization IV multiplayer"
+  },
+  {
+    "status": "Official",
+    "port": 2049,
+    "description": "Network File System (NFS)"
   },
   {
     "status": "Unofficial",
@@ -2651,13 +2686,28 @@
   },
   {
     "status": "Official",
+    "port": 5004,
+    "description": "Real-time Transport Protocol media data (RTP) (RFC 3551, RFC 4571)"
+  },
+  {
+    "status": "Official",
+    "port": 5005,
+    "description": "Real-time Transport Protocol control protocol (RTCP) (RFC 3551, RFC 4571)"
+  },
+  {
+    "status": "Official",
+    "port": 5010,
+    "description": "Registered to: TelePath (the IBM FlowMark workflow-management system messaging platform) The TCP port is now used for: IBM WebSphere MQ Workflow"
+  },
+  {
+    "status": "Official",
     "port": 5011,
     "description": "TelePath (the IBM FlowMark workflow-management system messaging platform)"
   },
   {
     "status": "Unofficial",
     "port": 5029,
-    "description": "Sonic Robo Blast 2 : Multiplayer"
+    "description": "Sonic Robo Blast 2 : Multiplayer"
   },
   {
     "status": "Unofficial",
@@ -3516,7 +3566,47 @@
   },
   {
     "status": "Unofficial",
+    "port": 6660,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6661,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6662,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6663,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Official",
     "port": 6664,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Official",
+    "port": 6665,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Official",
+    "port": 6666,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Official",
+    "port": 6667,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Official",
+    "port": 6668,
     "description": "Internet Relay Chat (IRC)"
   },
   {
@@ -3578,6 +3668,11 @@
     "status": "Unofficial",
     "port": 6869,
     "description": "Derandom default server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6881,
+    "description": "BitTorrent part of full range of ports used most often"
   },
   {
     "status": "Unofficial",
@@ -4412,6 +4507,11 @@
   {
     "status": "Unofficial",
     "port": 9051,
+    "description": "Tor"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9050,
     "description": "Tor"
   },
   {

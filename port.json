@@ -1,0 +1,5577 @@
+[
+  {
+    "status": "Official",
+    "port": 1,
+    "description": "TCP Port Service Multiplexer (TCPMUX). Historic. Both TCP and UDP have been assigned to TCPMUX by IANA,"
+  },
+  {
+    "status": "Official",
+    "port": 4,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Official",
+    "port": 5,
+    "description": "Remote job entry"
+  },
+  {
+    "status": "Official",
+    "port": 6,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Official",
+    "port": 7,
+    "description": "Echo Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 8,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Official",
+    "port": 10,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Official",
+    "port": 12,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Official",
+    "port": 13,
+    "description": "Daytime Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 14,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Unofficial",
+    "port": 15,
+    "description": "Previously netstat service"
+  },
+  {
+    "status": "Official",
+    "port": 16,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Official",
+    "port": 17,
+    "description": "Quote of the Day (QOTD)"
+  },
+  {
+    "status": "Official",
+    "port": 18,
+    "description": "Message Send Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 19,
+    "description": "Character Generator Protocol (CHARGEN)"
+  },
+  {
+    "status": "Official",
+    "port": 20,
+    "description": "File Transfer Protocol (FTP) data transfer"
+  },
+  {
+    "status": "Official",
+    "port": 23,
+    "description": "Telnet protocol—unencrypted text communications"
+  },
+  {
+    "status": "Official",
+    "port": 25,
+    "description": "Simple Mail Transfer Protocol (SMTP), used for e-mail routing between mail servers"
+  },
+  {
+    "status": "Official",
+    "port": 26,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Official",
+    "port": 37,
+    "description": "Time Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 38,
+    "description": "Route Access Protocol (RAP)"
+  },
+  {
+    "status": "Official",
+    "port": 39,
+    "description": "Resource Location Protocol (RLP)—used for determining the location of higher level services from hosts on a network"
+  },
+  {
+    "status": "Official",
+    "port": 40,
+    "description": "Unassigned"
+  },
+  {
+    "status": "Official",
+    "port": 42,
+    "description": "Host Name Server Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 43,
+    "description": "WHOIS protocol"
+  },
+  {
+    "status": "Official",
+    "port": 49,
+    "description": "TACACS+ Login Host protocol"
+  },
+  {
+    "status": "Official",
+    "port": 50,
+    "description": "Remote Mail Checking Protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 51,
+    "description": "Previously Interface Message Processor logical address management"
+  },
+  {
+    "status": "Official",
+    "port": 52,
+    "description": "Xerox Network Systems (XNS) Time Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 53,
+    "description": "Domain Name System (DNS)"
+  },
+  {
+    "status": "Official",
+    "port": 54,
+    "description": "Xerox Network Systems (XNS) clearinghouse"
+  },
+  {
+    "status": "Official",
+    "port": 56,
+    "description": "Xerox Network Systems (XNS) authentication"
+  },
+  {
+    "status": "Official",
+    "port": 57,
+    "description": "Any private terminal access"
+  },
+  {
+    "status": "Official",
+    "port": 58,
+    "description": "Xerox Network Systems (XNS) Mail"
+  },
+  {
+    "status": "Official",
+    "port": 67,
+    "description": "Bootstrap Protocol (BOOTP) server; also used by Dynamic Host Configuration Protocol (DHCP)"
+  },
+  {
+    "status": "Official",
+    "port": 68,
+    "description": "Bootstrap Protocol (BOOTP) client; also used by Dynamic Host Configuration Protocol (DHCP)"
+  },
+  {
+    "status": "Official",
+    "port": 69,
+    "description": "Trivial File Transfer Protocol (TFTP)"
+  },
+  {
+    "status": "Official",
+    "port": 70,
+    "description": "Gopher protocol"
+  },
+  {
+    "status": "Official",
+    "port": 74,
+    "description": "NETRJS protocol"
+  },
+  {
+    "status": "Official",
+    "port": 75,
+    "description": "Any private dial out service"
+  },
+  {
+    "status": "Official",
+    "port": 77,
+    "description": "Any private Remote job entry"
+  },
+  {
+    "status": "Official",
+    "port": 79,
+    "description": "Finger protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 81,
+    "description": "TorPark onion routing"
+  },
+  {
+    "status": "Official",
+    "port": 88,
+    "description": "Kerberos authentication system"
+  },
+  {
+    "status": "Official",
+    "port": 90,
+    "description": "dnsix (DoD Network Security for Information Exchange) Securit "
+  },
+  {
+    "status": "Unofficial",
+    "port": 90,
+    "description": "PointCast (dotcom)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 99,
+    "description": "WIP message protocol"
+  },
+  {
+    "status": "Official",
+    "port": 101,
+    "description": "NIC host name"
+  },
+  {
+    "status": "Official",
+    "port": 102,
+    "description": "ISO Transport Service Access Point (TSAP) Class 0 protocol;"
+  },
+  {
+    "status": "Official",
+    "port": 104,
+    "description": "Digital Imaging and Communications in Medicine (DICOM; also port 11112)"
+  },
+  {
+    "status": "Official",
+    "port": 105,
+    "description": "CCSO Nameserver"
+  },
+  {
+    "status": "Official",
+    "port": 107,
+    "description": "Remote User Telnet Service (RTelnet)"
+  },
+  {
+    "status": "Official",
+    "port": 108,
+    "description": "IBM Systems Network Architecture (SNA) gateway access server"
+  },
+  {
+    "status": "Official",
+    "port": 109,
+    "description": "Post Office Protocol, version 2 (POP2)"
+  },
+  {
+    "status": "Official",
+    "port": 110,
+    "description": "Post Office Protocol, version 3 (POP3)"
+  },
+  {
+    "status": "Official",
+    "port": 111,
+    "description": "Open Network Computing Remote Procedure Call (ONC RPC, sometimes referred to as Sun RPC)"
+  },
+  {
+    "status": "Official",
+    "port": 113,
+    "description": "Ident, authentication service/identification protocol, used by IRC servers to identify users"
+  },
+  {
+    "status": "Official",
+    "port": 113,
+    "description": "Authentication Service (auth), the predecessor to identification protocol. Used to determine a user's identity of a particular TCP connection."
+  },
+  {
+    "status": "Official",
+    "port": 115,
+    "description": "Simple File Transfer Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 117,
+    "description": "UUCP Mapping Project (path service)"
+  },
+  {
+    "status": "Official",
+    "port": 118,
+    "description": "Structured Query Language (SQL) Services"
+  },
+  {
+    "status": "Official",
+    "port": 119,
+    "description": "Network News Transfer Protocol (NNTP),"
+  },
+  {
+    "status": "Official",
+    "port": 123,
+    "description": "Network Time Protocol (NTP), used for time synchronization"
+  },
+  {
+    "status": "Official",
+    "port": 126,
+    "description": "Formerly Unisys Unitary Login, renamed by Unisys to NXEdit. Used by Unisys Programmer's Workbench for Clearpath MCP, an IDE for Unisys MCP software development"
+  },
+  {
+    "status": "Official",
+    "port": 135,
+    "description": "DCE endpoint resolution"
+  },
+  {
+    "status": "Official",
+    "port": 135,
+    "description": "Microsoft EPMAP (End Point Mapper), also known as DCE/RPC Locator service, used to remotely manage services including DHCP server, DNS server and WINS. Also used by DCOM"
+  },
+  {
+    "status": "Official",
+    "port": 137,
+    "description": "NetBIOS Name Service, used for name registration and resolution"
+  },
+  {
+    "status": "Official",
+    "port": 138,
+    "description": "NetBIOS Datagram Service"
+  },
+  {
+    "status": "Official",
+    "port": 139,
+    "description": "NetBIOS Session Service"
+  },
+  {
+    "status": "Official",
+    "port": 143,
+    "description": "Internet Message Access Protocol (IMAP),"
+  },
+  {
+    "status": "Official",
+    "port": 152,
+    "description": "Background File Transfer Program (BFTP)"
+  },
+  {
+    "status": "Official",
+    "port": 153,
+    "description": "Simple Gateway Monitoring Protocol (SGMP), a protocol for remote inspection and alteration of gateway management information"
+  },
+  {
+    "status": "Official",
+    "port": 156,
+    "description": "Structured Query Language (SQL) Service"
+  },
+  {
+    "status": "Official",
+    "port": 158,
+    "description": "Distributed Mail System Protocol (DMSP, sometimes referred to as Pcmail)"
+  },
+  {
+    "status": "Official",
+    "port": 161,
+    "description": "Simple Network Management Protocol (SNMP)"
+  },
+  {
+    "status": "Official",
+    "port": 162,
+    "description": "Simple Network Management Protocol Trap (SNMPTRAP)"
+  },
+  {
+    "status": "Official",
+    "port": 170,
+    "description": "Print server"
+  },
+  {
+    "status": "Official",
+    "port": 177,
+    "description": "X Display Manager Control Protocol (XDMCP), used for remote logins to an X Display Manager server"
+  },
+  {
+    "status": "Official",
+    "port": 194,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Official",
+    "port": 199,
+    "description": "SNMP multiplexing protocol (SMUX)"
+  },
+  {
+    "status": "Official",
+    "port": 201,
+    "description": "AppleTalk Routing Maintenance"
+  },
+  {
+    "status": "Official",
+    "port": 209,
+    "description": "Quick Mail Transfer Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 210,
+    "description": "ANSI Z39.50"
+  },
+  {
+    "status": "Official",
+    "port": 213,
+    "description": "Internetwork Packet Exchange (IPX)"
+  },
+  {
+    "status": "Official",
+    "port": 218,
+    "description": "Message posting protocol (MPP)"
+  },
+  {
+    "status": "Official",
+    "port": 220,
+    "description": "Internet Message Access Protocol (IMAP), version 3"
+  },
+  {
+    "status": "Official",
+    "port": 259,
+    "description": "Efficient Short Remote Operations (ESRO)"
+  },
+  {
+    "status": "Official",
+    "port": 262,
+    "description": "Arcisdms"
+  },
+  {
+    "status": "Official",
+    "port": 264,
+    "description": "Border Gateway Multicast Protocol (BGMP)"
+  },
+  {
+    "status": "Official",
+    "port": 280,
+    "description": "http-mgmt"
+  },
+  {
+    "status": "Unofficial",
+    "port": 300,
+    "description": "ThinLinc Web Access"
+  },
+  {
+    "status": "Official",
+    "port": 308,
+    "description": "Novastor Online Backup"
+  },
+  {
+    "status": "Official",
+    "port": 311,
+    "description": "Mac OS X Server Admin)"
+  },
+  {
+    "status": "Official",
+    "port": 318,
+    "description": "PKIX Time Stamp Protocol (TSP)"
+  },
+  {
+    "status": "Official",
+    "port": 350,
+    "description": "Mapping of Airline Traffic over Internet Protocol (MATIP) type A"
+  },
+  {
+    "status": "Official",
+    "port": 351,
+    "description": "MATIP type B"
+  },
+  {
+    "status": "Official",
+    "port": 356,
+    "description": "cloanto-net-1 (used by Cloanto Amiga Explorer and VMs)"
+  },
+  {
+    "status": "Official",
+    "port": 366,
+    "description": "On-Demand Mail Relay (ODMR)"
+  },
+  {
+    "status": "Official",
+    "port": 369,
+    "description": "Rpc2portmap"
+  },
+  {
+    "status": "Official",
+    "port": 370,
+    "description": "codaauth2, Coda authentication server"
+  },
+  {
+    "status": "Official",
+    "port": 371,
+    "description": "ClearCase albd"
+  },
+  {
+    "status": "Official",
+    "port": 383,
+    "description": "HP data alarm manager"
+  },
+  {
+    "status": "Official",
+    "port": 384,
+    "description": "A Remote Network Server System"
+  },
+  {
+    "status": "Official",
+    "port": 387,
+    "description": "AURP (AppleTalk Update-based Routing Protocol)"
+  },
+  {
+    "status": "Official",
+    "port": 389,
+    "description": "Lightweight Directory Access Protocol (LDAP)"
+  },
+  {
+    "status": "Official",
+    "port": 399,
+    "description": "Digital Equipment Corporation DECnet (Phase V+) over TCP/IP"
+  },
+  {
+    "status": "Official",
+    "port": 401,
+    "description": "Uninterruptible power supply (UPS)"
+  },
+  {
+    "status": "Official",
+    "port": 427,
+    "description": "Service Location Protocol (SLP)"
+  },
+  {
+    "status": "Official",
+    "port": 433,
+    "description": "NNSP, part of Network News Transfer Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 434,
+    "description": "Mobile IP Agent (RFC 5944)"
+  },
+  {
+    "status": "Official",
+    "port": 444,
+    "description": "Simple Network Paging Protocol (SNPP), RFC 1568"
+  },
+  {
+    "status": "Unofficial",
+    "port": 444,
+    "description": "Well known Slither.io port"
+  },
+  {
+    "status": "Official",
+    "port": 445,
+    "description": "Microsoft-DS Active Directory, Windows shares"
+  },
+  {
+    "status": "Official",
+    "port": 445,
+    "description": "Microsoft-DS SMB file sharing"
+  },
+  {
+    "status": "Official",
+    "port": 464,
+    "description": "Kerberos Change/Set password"
+  },
+  {
+    "status": "Official",
+    "port": 465,
+    "description": "URL Rendezvous Directory for SSM (Cisco protocol)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 465,
+    "description": "Authenticated SMTP over TLS/SSL (SMTPS)"
+  },
+  {
+    "status": "Official",
+    "port": 475,
+    "description": "tcpnethaspsrv, Aladdin Knowledge Systems Hasp services"
+  },
+  {
+    "status": "Unofficial",
+    "port": 491,
+    "description": "GO-Global remote access and application publishing software"
+  },
+  {
+    "status": "Official",
+    "port": 497,
+    "description": "Dantz Retrospect"
+  },
+  {
+    "status": "Official",
+    "port": 500,
+    "description": "Internet Security Association and Key Management Protocol (ISAKMP) / Internet Key Exchange (IKE)"
+  },
+  {
+    "status": "Official",
+    "port": 502,
+    "description": "Modbus Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 504,
+    "description": "Citadel, multiservice protocol for dedicated clients for the Citadel groupware system"
+  },
+  {
+    "status": "Official",
+    "port": 510,
+    "description": "FirstClass Protocol (FCP), used by FirstClass client/server groupware system"
+  },
+  {
+    "status": "Official",
+    "port": 512,
+    "description": "Rexec, Remote Process Execution"
+  },
+  {
+    "status": "Official",
+    "port": 513,
+    "description": "rlogin"
+  },
+  {
+    "status": "Official",
+    "port": 514,
+    "description": "Remote Shell, used to execute non-interactive commands on a remote system (Remote Shell, rsh, remsh)"
+  },
+  {
+    "status": "Official",
+    "port": 515,
+    "description": "Line Printer Daemon (LPD), print service"
+  },
+  {
+    "status": "Official",
+    "port": 520,
+    "description": "efs, extended file name server"
+  },
+  {
+    "status": "Official",
+    "port": 524,
+    "description": "NetWare Core Protocol (NCP) is used for a variety things such as access to primary NetWare server resources, Time Synchronization, etc."
+  },
+  {
+    "status": "Official",
+    "port": 530,
+    "description": "Remote procedure call (RPC)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 531,
+    "description": "AOL Instant Messenger"
+  },
+  {
+    "status": "Official",
+    "port": 532,
+    "description": "netnews"
+  },
+  {
+    "status": "Official",
+    "port": 540,
+    "description": "Unix-to-Unix Copy Protocol (UUCP)"
+  },
+  {
+    "status": "Official",
+    "port": 542,
+    "description": "commerce (Commerce Applications)"
+  },
+  {
+    "status": "Official",
+    "port": 543,
+    "description": "klogin, Kerberos login"
+  },
+  {
+    "status": "Official",
+    "port": 544,
+    "description": "kshell, Kerberos Remote shell"
+  },
+  {
+    "status": "Unofficial",
+    "port": 545,
+    "description": "OSIsoft PI (VMS), OSISoft PI Server Client Access"
+  },
+  {
+    "status": "Official",
+    "port": 546,
+    "description": "DHCPv6 client"
+  },
+  {
+    "status": "Official",
+    "port": 547,
+    "description": "DHCPv6 server"
+  },
+  {
+    "status": "Official",
+    "port": 548,
+    "description": "Apple Filing Protocol (AFP) over TCP"
+  },
+  {
+    "status": "Official",
+    "port": 550,
+    "description": "new-rwho, new-who"
+  },
+  {
+    "status": "Official",
+    "port": 554,
+    "description": "Real Time Streaming Protocol (RTSP)"
+  },
+  {
+    "status": "Official",
+    "port": 556,
+    "description": "Remotefs, RFS, rfs_server"
+  },
+  {
+    "status": "Official",
+    "port": 563,
+    "description": "NNTP over TLS/SSL (NNTPS)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 564,
+    "description": "9P (Plan 9)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 585,
+    "description": "Legacy use of Internet Message Access Protocol over TLS/SSL (IMAPS)"
+  },
+  {
+    "status": "Official",
+    "port": 587,
+    "description": "e-mail message submission (SMTP)"
+  },
+  {
+    "status": "Official",
+    "port": 591,
+    "description": "FileMaker 6.0 (and later) Web Sharing (HTTP Alternate, also see port 80)"
+  },
+  {
+    "status": "Official",
+    "port": 593,
+    "description": "HTTP RPC Ep Map, Remote procedure call over Hypertext Transfer Protocol, often used by Distributed Component Object Model services and Microsoft Exchange Server"
+  },
+  {
+    "status": "Official",
+    "port": 601,
+    "description": "Reliable Syslog Service — used for system logging"
+  },
+  {
+    "status": "Official",
+    "port": 604,
+    "description": "TUNNEL profile, a protocol for BEEP peers to form an application layer tunnel"
+  },
+  {
+    "status": "Unofficial",
+    "port": 625,
+    "description": "Open Directory Proxy (ODProxy)"
+  },
+  {
+    "status": "Official",
+    "port": 631,
+    "description": "Internet Printing Protocol (IPP)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 631,
+    "description": "Common Unix Printing System (CUPS) administration console (extension to IPP)"
+  },
+  {
+    "status": "Official",
+    "port": 635,
+    "description": "RLZ DBase"
+  },
+  {
+    "status": "Official",
+    "port": 636,
+    "description": "Lightweight Directory Access Protocol over TLS/SSL (LDAPS)"
+  },
+  {
+    "status": "Official",
+    "port": 639,
+    "description": "MSDP, Multicast Source Discovery Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 641,
+    "description": "SupportSoft Nexus Remote Command (control/listening), a proxy gateway connecting remote control traffic"
+  },
+  {
+    "status": "Official",
+    "port": 643,
+    "description": "SANity"
+  },
+  {
+    "status": "Official",
+    "port": 646,
+    "description": "Label Distribution Protocol (LDP), a routing protocol used in MPLS networks"
+  },
+  {
+    "status": "Official",
+    "port": 647,
+    "description": "DHCP Failover protocol"
+  },
+  {
+    "status": "Official",
+    "port": 648,
+    "description": "Registry Registrar Protocol (RRP)"
+  },
+  {
+    "status": "Official",
+    "port": 651,
+    "description": "IEEE-MMS"
+  },
+  {
+    "status": "Official",
+    "port": 653,
+    "description": "SupportSoft Nexus Remote Command (data), a proxy gateway connecting remote control traffic"
+  },
+  {
+    "status": "Official",
+    "port": 654,
+    "description": "Media Management System (MMS) Media Management Protocol (MMP)"
+  },
+  {
+    "status": "Official",
+    "port": 655,
+    "description": "Tinc VPN daemon"
+  },
+  {
+    "status": "Official",
+    "port": 657,
+    "description": "IBM RMC (Remote monitoring and Control) protocol, used by System p5 AIX Integrated Virtualization Manager (IVM) and Hardware Management Console to connect managed logical partitions (LPAR) to enable dynamic partition reconfiguration"
+  },
+  {
+    "status": "Official",
+    "port": 660,
+    "description": "Mac OS X Server administration,"
+  },
+  {
+    "status": "Official",
+    "port": 666,
+    "description": "Doom, first online first-person shooter"
+  },
+  {
+    "status": "Unofficial",
+    "port": 666,
+    "description": "airserv-ng, aircrack-ng's server for remote-controlling wireless devices"
+  },
+  {
+    "status": "Official",
+    "port": 674,
+    "description": "Application Configuration Access Protocol (ACAP)"
+  },
+  {
+    "status": "Official",
+    "port": 688,
+    "description": "REALM-RUSD (ApplianceWare Server Appliance Management Protocol)"
+  },
+  {
+    "status": "Official",
+    "port": 690,
+    "description": "Velneo Application Transfer Protocol (VATP)"
+  },
+  {
+    "status": "Official",
+    "port": 691,
+    "description": "MS Exchange Routing"
+  },
+  {
+    "status": "Official",
+    "port": 694,
+    "description": "Linux-HA high-availability heartbeat"
+  },
+  {
+    "status": "Official",
+    "port": 695,
+    "description": "IEEE Media Management System over SSL (IEEE-MMS-SSL)"
+  },
+  {
+    "status": "Official",
+    "port": 700,
+    "description": "Extensible Provisioning Protocol (EPP), a protocol for communication between domain name registries and registrars (RFC 5734)"
+  },
+  {
+    "status": "Official",
+    "port": 701,
+    "description": "Link Management Protocol (LMP), a protocol that runs between a pair of nodes and is used to manage traffic engineering (TE) links"
+  },
+  {
+    "status": "Official",
+    "port": 702,
+    "description": "IRIS (RFC 3983)"
+  },
+  {
+    "status": "Official",
+    "port": 706,
+    "description": "Secure Internet Live Conferencing (SILC)"
+  },
+  {
+    "status": "Official",
+    "port": 711,
+    "description": "Cisco Tag Distribution Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 712,
+    "description": "Topology Broadcast based on Reverse-Path Forwarding routing protocol (TBRPF; RFC 3684)"
+  },
+  {
+    "status": "Official",
+    "port": 749,
+    "description": "Kerberos (protocol) administration"
+  },
+  {
+    "status": "Unofficial",
+    "port": 751,
+    "description": "kerberos_master, Kerberos authentication"
+  },
+  {
+    "status": "Official",
+    "port": 753,
+    "description": "Reverse Routing Header (RRH)"
+  },
+  {
+    "status": "Official",
+    "port": 754,
+    "description": "tell send"
+  },
+  {
+    "status": "Unofficial",
+    "port": 754,
+    "description": "krb5_prop, Kerberos v5 slave propagation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 760,
+    "description": "krbupdate , Kerberos registration"
+  },
+  {
+    "status": "Unofficial",
+    "port": 782,
+    "description": "Conserver serial-console management server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 783,
+    "description": "SpamAssassin spamd daemon"
+  },
+  {
+    "status": "Official",
+    "port": 800,
+    "description": "mdbs-daemon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 808,
+    "description": "Microsoft Net.TCP Port Sharing Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 829,
+    "description": "Certificate Management Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 830,
+    "description": "NETCONF over SSH"
+  },
+  {
+    "status": "Official",
+    "port": 831,
+    "description": "NETCONF over BEEP"
+  },
+  {
+    "status": "Official",
+    "port": 832,
+    "description": "NETCONF for SOAP over HTTPS"
+  },
+  {
+    "status": "Official",
+    "port": 833,
+    "description": "NETCONF for SOAP over BEEP"
+  },
+  {
+    "status": "Unofficial",
+    "port": 843,
+    "description": "Adobe Flash"
+  },
+  {
+    "status": "Official",
+    "port": 847,
+    "description": "DHCP Failover protocol"
+  },
+  {
+    "status": "Official",
+    "port": 848,
+    "description": "Group Domain Of Interpretation (GDOI) protocol"
+  },
+  {
+    "status": "Official",
+    "port": 853,
+    "description": "DNS over TLS (RFC 7858)"
+  },
+  {
+    "status": "Official",
+    "port": 860,
+    "description": "iSCSI (RFC 3720)"
+  },
+  {
+    "status": "Official",
+    "port": 861,
+    "description": "OWAMP control (RFC 4656)"
+  },
+  {
+    "status": "Official",
+    "port": 862,
+    "description": "TWAMP control (RFC 5357)"
+  },
+  {
+    "status": "Official",
+    "port": 873,
+    "description": "rsync file synchronization protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 888,
+    "description": "cddbp, CD DataBase (CDDB) protocol (CDDBP)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 888,
+    "description": "IBM Endpoint Manager Remote Control"
+  },
+  {
+    "status": "Unofficial",
+    "port": 897,
+    "description": "Brocade SMI-S RPC"
+  },
+  {
+    "status": "Unofficial",
+    "port": 898,
+    "description": "Brocade SMI-S RPC SSL"
+  },
+  {
+    "status": "Unofficial",
+    "port": 902,
+    "description": "VMware ESXi"
+  },
+  {
+    "status": "Unofficial",
+    "port": 903,
+    "description": "VMware ESXi"
+  },
+  {
+    "status": "Unofficial",
+    "port": 953,
+    "description": "BIND remote name daemon control (RNDC)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 981,
+    "description": "Remote HTTPS management for firewall devices running embedded Check Point VPN-1 software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 987,
+    "description": "Microsoft Windows SBS SharePoint"
+  },
+  {
+    "status": "Official",
+    "port": 989,
+    "description": "FTPS Protocol (data), FTP over TLS/SSL"
+  },
+  {
+    "status": "Official",
+    "port": 990,
+    "description": "FTPS Protocol (control), FTP over TLS/SSL"
+  },
+  {
+    "status": "Official",
+    "port": 991,
+    "description": "Netnews Administration System (NAS)"
+  },
+  {
+    "status": "Official",
+    "port": 992,
+    "description": "Telnet protocol over TLS/SSL"
+  },
+  {
+    "status": "Official",
+    "port": 993,
+    "description": "Internet Message Access Protocol over TLS/SSL (IMAPS)"
+  },
+  {
+    "status": "Official",
+    "port": 994,
+    "description": "Reserved"
+  },
+  {
+    "status": "Unofficial",
+    "port": 994,
+    "description": "Internet Relay Chat over TLS/SSL (IRCS)"
+  },
+  {
+    "status": "Official",
+    "port": 995,
+    "description": "Post Office Protocol 3 over TLS/SSL (POP3S)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 999,
+    "description": "ScimoreDB Database System"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1010,
+    "description": "ThinLinc web-based administration interface"
+  },
+  {
+    "status": "Official",
+    "port": 1023,
+    "description": "Reserved"
+  },
+  {
+    "status": "Official",
+    "port": 1027,
+    "description": "Reserved"
+  },
+  {
+    "status": "Official",
+    "port": 1058,
+    "description": "nim, IBM AIX Network Installation Manager (NIM)"
+  },
+  {
+    "status": "Official",
+    "port": 1059,
+    "description": "nimreg, IBM AIX Network Installation Manager (NIM)"
+  },
+  {
+    "status": "Official",
+    "port": 1080,
+    "description": "SOCKS proxy"
+  },
+  {
+    "status": "Official",
+    "port": 1085,
+    "description": "WebObjects"
+  },
+  {
+    "status": "Official",
+    "port": 1098,
+    "description": "rmiactivation, Java remote method invocation (RMI) activation"
+  },
+  {
+    "status": "Official",
+    "port": 1099,
+    "description": "rmiregistry, Java remote method invocation (RMI) registry"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1109,
+    "description": "Kerberos Post Office Protocol (KPOP)"
+  },
+  {
+    "status": "Official",
+    "port": 1119,
+    "description": "Battle.net chat/game protocol, used by Blizzard's games"
+  },
+  {
+    "status": "Official",
+    "port": 1194,
+    "description": "OpenVPN"
+  },
+  {
+    "status": "Official",
+    "port": 1198,
+    "description": "The cajo project Free dynamic transparent distributed computing in Java"
+  },
+  {
+    "status": "Official",
+    "port": 1214,
+    "description": "Kazaa"
+  },
+  {
+    "status": "Official",
+    "port": 1220,
+    "description": "QuickTime Streaming Server administration"
+  },
+  {
+    "status": "Official",
+    "port": 1234,
+    "description": "Infoseek search agent"
+  },
+  {
+    "status": "Official",
+    "port": 1241,
+    "description": "Nessus Security Scanner"
+  },
+  {
+    "status": "Official",
+    "port": 1270,
+    "description": "Microsoft System Center Operations Manager (SCOM) (formerly Microsoft Operations Manager (MOM)) agent"
+  },
+  {
+    "status": "Official",
+    "port": 1293,
+    "description": "Internet Protocol Security (IPSec)"
+  },
+  {
+    "status": "Official",
+    "port": 1311,
+    "description": "Windows RxMon.exe"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1311,
+    "description": "Dell OpenManage HTTPS "
+  },
+  {
+    "status": "Unofficial",
+    "port": 1337,
+    "description": "neo4j-shell"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1337,
+    "description": "WASTE Encrypted File Sharing Program"
+  },
+  {
+    "status": "Official",
+    "port": 1341,
+    "description": "Qubes (Manufacturing Execution System)"
+  },
+  {
+    "status": "Official",
+    "port": 1344,
+    "description": "Internet Content Adaptation Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 1352,
+    "description": "IBM Lotus Notes/Domino (RPC) protocol"
+  },
+  {
+    "status": "Official",
+    "port": 1360,
+    "description": "Mimer SQL"
+  },
+  {
+    "status": "Official",
+    "port": 1414,
+    "description": "IBM WebSphere MQ (formerly known as MQSeries)"
+  },
+  {
+    "status": "Official",
+    "port": 1417,
+    "description": "Timbuktu Service 1 Port"
+  },
+  {
+    "status": "Official",
+    "port": 1418,
+    "description": "Timbuktu Service 2 Port"
+  },
+  {
+    "status": "Official",
+    "port": 1419,
+    "description": "Timbuktu Service 3 Port"
+  },
+  {
+    "status": "Official",
+    "port": 1420,
+    "description": "Timbuktu Service 4 Port"
+  },
+  {
+    "status": "Official",
+    "port": 1431,
+    "description": "Reverse Gossip Transport Protocol (RGTP), used to access a General-purpose Reverse-Ordered Gossip Gathering System (GROGGS) bulletin board, such as that implemented on the Cambridge University's Phoenix system"
+  },
+  {
+    "status": "Official",
+    "port": 1433,
+    "description": "Microsoft SQL Server database management system (MSSQL) server"
+  },
+  {
+    "status": "Official",
+    "port": 1434,
+    "description": "Microsoft SQL Server database management system (MSSQL) monitor"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1492,
+    "description": "Sid Meier's CivNet, a multiplayer remake of the original Sid Meier's Civilization game"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1494,
+    "description": "Citrix Independent Computing Architecture (ICA)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1500,
+    "description": "IBM Tivoli Storage Manager server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1501,
+    "description": "IBM Tivoli Storage Manager client scheduler"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1503,
+    "description": "Windows Live Messenger (Whiteboard and Application Sharing)"
+  },
+  {
+    "status": "Official",
+    "port": 1512,
+    "description": "Microsoft's Windows Internet Name Service (WINS)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1513,
+    "description": "Garena game client"
+  },
+  {
+    "status": "Official",
+    "port": 1521,
+    "description": "nCube License Manager"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1521,
+    "description": "Oracle database default listener, in future releases official port 2483 (TCP/IP) and 2484 (TCP/IP with SSL)"
+  },
+  {
+    "status": "Official",
+    "port": 1524,
+    "description": "ingreslock, ingres"
+  },
+  {
+    "status": "Official",
+    "port": 1527,
+    "description": "Oracle Net Services, formerly known as SQL*Net"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1527,
+    "description": "Apache Derby Network Server"
+  },
+  {
+    "status": "Official",
+    "port": 1533,
+    "description": "IBM Sametime Virtual Places Chat"
+  },
+  {
+    "status": "Official",
+    "port": 1547,
+    "description": "Laplink"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1550,
+    "description": "Gadu-Gadu (direct client-to-client)"
+  },
+  {
+    "status": "Official",
+    "port": 1581,
+    "description": "MIL STD 2045-47001 VMF"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1581,
+    "description": "IBM Tivoli Storage Manager web client"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1583,
+    "description": "IBM Tivoli Storage Manager server web interface"
+  },
+  {
+    "status": "Official",
+    "port": 1589,
+    "description": "Cisco VLAN Query Protocol (VQP)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1604,
+    "description": "DarkComet remote administration tool (RAT)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1626,
+    "description": "iSketch"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1627,
+    "description": "iSketch"
+  },
+  {
+    "status": "Official",
+    "port": 1628,
+    "description": "LonTalk normal"
+  },
+  {
+    "status": "Official",
+    "port": 1629,
+    "description": "LonTalk urgent"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1666,
+    "description": "Perforce"
+  },
+  {
+    "status": "Official",
+    "port": 1677,
+    "description": "Novell GroupWise clients in client/server access mode"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1688,
+    "description": "Microsoft Key Management Service (KMS) for Windows Activation"
+  },
+  {
+    "status": "Official",
+    "port": 1701,
+    "description": "Layer 2 Forwarding Protocol (L2F)"
+  },
+  {
+    "status": "Official",
+    "port": 1701,
+    "description": "Layer 2 Tunneling Protocol (L2TP)"
+  },
+  {
+    "status": "Official",
+    "port": 1707,
+    "description": "Windward Studios games (vdmplay)"
+  },
+  {
+    "status": "Official",
+    "port": 1719,
+    "description": "H.323 registration and alternate communication"
+  },
+  {
+    "status": "Official",
+    "port": 1720,
+    "description": "H.323 call signaling"
+  },
+  {
+    "status": "Official",
+    "port": 1723,
+    "description": "Point-to-Point Tunneling Protocol (PPTP)"
+  },
+  {
+    "status": "Official",
+    "port": 1755,
+    "description": "Microsoft Media Services (MMS, ms-streaming)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1761,
+    "description": "Novell ZENworks"
+  },
+  {
+    "status": "Official",
+    "port": 1801,
+    "description": "Microsoft Message Queuing"
+  },
+  {
+    "status": "Official",
+    "port": 1812,
+    "description": "RADIUS authentication protocol, radius"
+  },
+  {
+    "status": "Official",
+    "port": 1813,
+    "description": "RADIUS accounting protocol, radius-acct"
+  },
+  {
+    "status": "Official",
+    "port": 1863,
+    "description": "Microsoft Notification Protocol (MSNP), used by the Microsoft Messenger service and a number of instant messaging Messenger clients"
+  },
+  {
+    "status": "Official",
+    "port": 1883,
+    "description": "MQTT (formerly MQ Telemetry Transport)"
+  },
+  {
+    "status": "Official",
+    "port": 1900,
+    "description": "Simple Service Discovery Protocol (SSDP), discovery of UPnP devices"
+  },
+  {
+    "status": "Official",
+    "port": 1935,
+    "description": "Macromedia Flash Communications Server MX, the precursor to Adobe Flash Media Server before Macromedia's acquisition by Adobe on December 3, 2005"
+  },
+  {
+    "status": "Unofficial",
+    "port": 1935,
+    "description": "Real Time Messaging Protocol (RTMP)"
+  },
+  {
+    "status": "Official",
+    "port": 1970,
+    "description": "Netop Remote Control"
+  },
+  {
+    "status": "Official",
+    "port": 1972,
+    "description": "InterSystems Caché"
+  },
+  {
+    "status": "Official",
+    "port": 1984,
+    "description": "Big Brother"
+  },
+  {
+    "status": "Official",
+    "port": 1985,
+    "description": "Cisco Hot Standby Router Protocol (HSRP)"
+  },
+  {
+    "status": "Official",
+    "port": 1998,
+    "description": "Cisco X.25 over TCP (XOT) service"
+  },
+  {
+    "status": "Official",
+    "port": 2000,
+    "description": "Cisco Skinny Client Control Protocol (SCCP)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2010,
+    "description": "Artemis: Spaceship Bridge Simulator"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2033,
+    "description": "Civilization IV multiplayer"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2056,
+    "description": "Civilization IV multiplayer"
+  },
+  {
+    "status": "Official",
+    "port": 2080,
+    "description": "Autodesk NLM (FLEXlm)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2082,
+    "description": "cPanel default"
+  },
+  {
+    "status": "Official",
+    "port": 2083,
+    "description": "Secure RADIUS Service (radsec)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2083,
+    "description": "cPanel default SSL"
+  },
+  {
+    "status": "Official",
+    "port": 2086,
+    "description": "GNUnet"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2086,
+    "description": "WebHost Manager default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2087,
+    "description": "WebHost Manager default SSL"
+  },
+  {
+    "status": "Official",
+    "port": 2095,
+    "description": "cPanel default web mail"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2096,
+    "description": "cPanel default SSL web mail"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2100,
+    "description": "Warzone 2100 multiplayer"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2101,
+    "description": "Networked Transport of RTCM via Internet Protocol (NTRIP)"
+  },
+  {
+    "status": "Official",
+    "port": 2102,
+    "description": "Zephyr Notification Service server"
+  },
+  {
+    "status": "Official",
+    "port": 2103,
+    "description": "Zephyr Notification Service serv-hm connection"
+  },
+  {
+    "status": "Official",
+    "port": 2104,
+    "description": "Zephyr Notification Service hostmanager"
+  },
+  {
+    "status": "Official",
+    "port": 2123,
+    "description": "GTP control messages (GTP-C)"
+  },
+  {
+    "status": "Official",
+    "port": 2142,
+    "description": "TDMoIP (TDM over IP)"
+  },
+  {
+    "status": "Official",
+    "port": 2152,
+    "description": "GTP user data messages (GTP-U)"
+  },
+  {
+    "status": "Official",
+    "port": 2159,
+    "description": "GDB remote debug port"
+  },
+  {
+    "status": "Official",
+    "port": 2181,
+    "description": "EForward-document transport system"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2181,
+    "description": "Apache ZooKeeper default client port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2195,
+    "description": "Apple Push Notification Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2196,
+    "description": "Apple Push Notification Service, feedback service"
+  },
+  {
+    "status": "Official",
+    "port": 2210,
+    "description": "NOAAPORT Broadcast Network"
+  },
+  {
+    "status": "Official",
+    "port": 2211,
+    "description": "EMWIN"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2221,
+    "description": "ESET anti-virus updates"
+  },
+  {
+    "status": "Official",
+    "port": 2222,
+    "description": "EtherNet/IP implicit messaging for IO data"
+  },
+  {
+    "status": "Official",
+    "port": 2226,
+    "description": "ESET Remote administrator"
+  },
+  {
+    "status": "Official",
+    "port": 2261,
+    "description": "CoMotion master"
+  },
+  {
+    "status": "Official",
+    "port": 2262,
+    "description": "CoMotion backup"
+  },
+  {
+    "status": "Official",
+    "port": 2266,
+    "description": "M-Files"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2351,
+    "description": "AIM game LAN network port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2368,
+    "description": "Ghost (blogging platform)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2369,
+    "description": "Default for BMC Control-M/Server Configuration Agent"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2370,
+    "description": "Default for BMC Control-M/Server, to allow the Control-M/Enterprise Manager to connect to the Control-M/Server"
+  },
+  {
+    "status": "Official",
+    "port": 2375,
+    "description": "Docker REST API (plain)"
+  },
+  {
+    "status": "Official",
+    "port": 2376,
+    "description": "Docker REST API (SSL)"
+  },
+  {
+    "status": "Official",
+    "port": 2379,
+    "description": "CoreOS etcd client communication"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2379,
+    "description": "KGS Go Server"
+  },
+  {
+    "status": "Official",
+    "port": 2380,
+    "description": "CoreOS etcd server communication"
+  },
+  {
+    "status": "Official",
+    "port": 2399,
+    "description": "FileMaker Data Access Layer (ODBC/JDBC)"
+  },
+  {
+    "status": "Official",
+    "port": 2401,
+    "description": "CVS version control system password-based server"
+  },
+  {
+    "status": "Official",
+    "port": 2404,
+    "description": "IEC 60870-5-104, used to send electric power telecontrol messages between two systems via directly connected data circuits"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2424,
+    "description": "OrientDB database listening for binary client connections"
+  },
+  {
+    "status": "Official",
+    "port": 2427,
+    "description": "Media Gateway Control Protocol (MGCP) media gateway"
+  },
+  {
+    "status": "Official",
+    "port": 2447,
+    "description": "ovwdb—OpenView Network Node Manager (NNM) daemon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2480,
+    "description": "OrientDB database listening for HTTP client connections"
+  },
+  {
+    "status": "Official",
+    "port": 2483,
+    "description": "Oracle database listening for insecure client connections to the listener, replaces port 1521"
+  },
+  {
+    "status": "Official",
+    "port": 2484,
+    "description": "Oracle database listening for SSL client connections to the listener"
+  },
+  {
+    "status": "Official",
+    "port": 2535,
+    "description": "Multicast Address Dynamic Client Allocation Protocol (MADCAP)."
+  },
+  {
+    "status": "Official",
+    "port": 2541,
+    "description": "LonTalk/IP"
+  },
+  {
+    "status": "Official",
+    "port": 2548,
+    "description": "EVault data protection services"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2593,
+    "description": "Ultima Online servers"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2598,
+    "description": "Citrix Independent Computing Architecture (ICA) with Session Reliability; port 1494 without session reliability"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2599,
+    "description": "Ultima Online servers"
+  },
+  {
+    "status": "Official",
+    "port": 2638,
+    "description": "SQL Anywhere database server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2703,
+    "description": "Vipul's Razor distributed, collaborative, spam-detection-and-filtering network"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2710,
+    "description": "XBT Tracker."
+  },
+  {
+    "status": "Official",
+    "port": 2727,
+    "description": "Media Gateway Control Protocol (MGCP) media gateway controller (call agent)"
+  },
+  {
+    "status": "Official",
+    "port": 2809,
+    "description": "corbaloc:iiop URL, per the CORBA 3.0.3 specification"
+  },
+  {
+    "status": "Official",
+    "port": 2811,
+    "description": "gsi ftp, per the GridFTP specification"
+  },
+  {
+    "status": "Unofficial",
+    "port": 2827,
+    "description": "I2P BOB Bridge"
+  },
+  {
+    "status": "Official",
+    "port": 2944,
+    "description": "Megaco text H.248"
+  },
+  {
+    "status": "Official",
+    "port": 2945,
+    "description": "Megaco binary (ASN.1) H.248"
+  },
+  {
+    "status": "Official",
+    "port": 2947,
+    "description": "gpsd, GPS daemon"
+  },
+  {
+    "status": "Official",
+    "port": 2948,
+    "description": "WAP push Multimedia Messaging Service (MMS)"
+  },
+  {
+    "status": "Official",
+    "port": 2949,
+    "description": "WAP push secure (MMS)"
+  },
+  {
+    "status": "Official",
+    "port": 2967,
+    "description": "Symantec System Center agent (SSC-AGENT)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3000,
+    "description": "Cloud9 IDE server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3000,
+    "description": "Ruby on Rails development default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3000,
+    "description": "Meteor development default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3000,
+    "description": "Resilio Sync, spun from BitTorrent Sync."
+  },
+  {
+    "status": "Unofficial",
+    "port": 3004,
+    "description": "iSync"
+  },
+  {
+    "status": "Official",
+    "port": 3020,
+    "description": "Common Internet File System (CIFS). See also port 445 for Server Message Block (SMB), a dialect of CIFS."
+  },
+  {
+    "status": "Official",
+    "port": 3050,
+    "description": "gds-db (Interbase/Firebird databases)"
+  },
+  {
+    "status": "Official",
+    "port": 3052,
+    "description": "APC PowerChute Network"
+  },
+  {
+    "status": "Official",
+    "port": 3074,
+    "description": "Xbox LIVE and Games for Windows – Live"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3101,
+    "description": "BlackBerry Enterprise Server communication protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3128,
+    "description": "Squid caching web proxy"
+  },
+  {
+    "status": "Official",
+    "port": 3225,
+    "description": "Fibre Channel over IP (FCIP)"
+  },
+  {
+    "status": "Official",
+    "port": 3233,
+    "description": "WhiskerControl research control protocol"
+  },
+  {
+    "status": "Official",
+    "port": 3260,
+    "description": "iSCSI"
+  },
+  {
+    "status": "Official",
+    "port": 3268,
+    "description": "msft-gc, Microsoft Global Catalog (LDAP service which contains data from Active Directory forests)"
+  },
+  {
+    "status": "Official",
+    "port": 3269,
+    "description": "msft-gc-ssl, Microsoft Global Catalog over SSL (similar to port 3268, LDAP over SSL)"
+  },
+  {
+    "status": "Official",
+    "port": 3283,
+    "description": "Net Assistant, a predecessor to Apple Remote Desktop"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3283,
+    "description": "Apple Remote Desktop 2.0 or later"
+  },
+  {
+    "status": "Official",
+    "port": 3305,
+    "description": "Odette File Transfer Protocol (OFTP)"
+  },
+  {
+    "status": "Official",
+    "port": 3306,
+    "description": "MySQL database system"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3313,
+    "description": "Verisys file integrity monitoring software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3316,
+    "description": "AzimuthVMS database port for the CCTV recording software AzimuthVMS"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3323,
+    "description": "DECE GEODI Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3333,
+    "description": "Eggdrop, an IRC bot default port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3333,
+    "description": "Network Caller ID server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3333,
+    "description": "CruiseControl.rb"
+  },
+  {
+    "status": "Official",
+    "port": 3386,
+    "description": "GTP' 3GPP GSM/UMTS CDR logging protocol"
+  },
+  {
+    "status": "Official",
+    "port": 3389,
+    "description": "Microsoft Terminal Server (RDP) officially registered as Windows Based Terminal (WBT)"
+  },
+  {
+    "status": "Official",
+    "port": 3396,
+    "description": "Novell NDPS Printer Agent"
+  },
+  {
+    "status": "Official",
+    "port": 3412,
+    "description": "xmlBlaster"
+  },
+  {
+    "status": "Official",
+    "port": 3455,
+    "description": "Resource Reservation Protocol (RSVP)"
+  },
+  {
+    "status": "Official",
+    "port": 3423,
+    "description": "Xware xTrm Communication Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 3424,
+    "description": "Xware xTrm Communication Protocol over SSL"
+  },
+  {
+    "status": "Official",
+    "port": 3478,
+    "description": "STUN, a protocol for NAT traversal"
+  },
+  {
+    "status": "Official",
+    "port": 3478,
+    "description": "TURN, a protocol for NAT traversal (extension to STUN)"
+  },
+  {
+    "status": "Official",
+    "port": 3483,
+    "description": "Slim Devices SlimProto protocol"
+  },
+  {
+    "status": "Official",
+    "port": 3493,
+    "description": "Network UPS Tools (NUT)"
+  },
+  {
+    "status": "Official",
+    "port": 3516,
+    "description": "Smartcard Port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3535,
+    "description": "SMTP alternate"
+  },
+  {
+    "status": "Official",
+    "port": 3562,
+    "description": "SDBProxy Simple DataBase middle-ware and proxy"
+  },
+  {
+    "status": "Official",
+    "port": 3606,
+    "description": "Splitlock Server"
+  },
+  {
+    "status": "Official",
+    "port": 3632,
+    "description": "Distcc, distributed compiler"
+  },
+  {
+    "status": "Official",
+    "port": 3644,
+    "description": "Evidian, ssowatch"
+  },
+  {
+    "status": "Official",
+    "port": 3645,
+    "description": "Cyc"
+  },
+  {
+    "status": "Official",
+    "port": 3659,
+    "description": "Apple SASL, used by Mac OS X Server Password Server"
+  },
+  {
+    "status": "Official",
+    "port": 3667,
+    "description": "Information Exchange"
+  },
+  {
+    "status": "Official",
+    "port": 3689,
+    "description": "Digital Audio Access Protocol (DAAP), used by Apple's iTunes and AirPlay"
+  },
+  {
+    "status": "Official",
+    "port": 3690,
+    "description": "Subversion (SVN) version control system"
+  },
+  {
+    "status": "Official",
+    "port": 3702,
+    "description": "Web Services Dynamic Discovery (WS-Discovery), used by various components of Windows Vista and later"
+  },
+  {
+    "status": "Official",
+    "port": 3724,
+    "description": "Some Blizzard games"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3724,
+    "description": "Club Penguin Disney online game for kids"
+  },
+  {
+    "status": "Official",
+    "port": 3725,
+    "description": "Netia NA-ER Port"
+  },
+  {
+    "status": "Official",
+    "port": 3768,
+    "description": "RBLcheckd server daemon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3800,
+    "description": "HGG programs"
+  },
+  {
+    "status": "Official",
+    "port": 3804,
+    "description": "Harman Professional HiQnet protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3825,
+    "description": "RedSeal Networks client/server connection"
+  },
+  {
+    "status": "Official",
+    "port": 3826,
+    "description": "WarMUX game server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3826,
+    "description": "RedSeal Networks client/server connection"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3835,
+    "description": "RedSeal Networks client/server connection"
+  },
+  {
+    "status": "Official",
+    "port": 3841,
+    "description": "ShipRush "
+  },
+  {
+    "status": "Official",
+    "port": 3830,
+    "description": "System Management Agent, developed and used by Cerner to monitor and manage solutions"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3856,
+    "description": "ERP Server Application used by F10 Software"
+  },
+  {
+    "status": "Official",
+    "port": 3880,
+    "description": "IGRS"
+  },
+  {
+    "status": "Official",
+    "port": 3868,
+    "description": "Diameter base protocol (RFC 3588)"
+  },
+  {
+    "status": "Official",
+    "port": 3872,
+    "description": "Oracle Enterprise Manager Remote Agent"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3899,
+    "description": "Remote Administrator"
+  },
+  {
+    "status": "Official",
+    "port": 3900,
+    "description": "udt_os, IBM UniData UDT OS"
+  },
+  {
+    "status": "Official",
+    "port": 3945,
+    "description": "EMCADS service, a Giritech product used by G/On"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3978,
+    "description": "OpenTTD game (masterserver and content service)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 3979,
+    "description": "OpenTTD game"
+  },
+  {
+    "status": "Official",
+    "port": 3999,
+    "description": "Norman distributed scanning service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4000,
+    "description": "Diablo II game"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4001,
+    "description": "Microsoft Ants game"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4007,
+    "description": "PrintBuzzer printer monitoring socket server"
+  },
+  {
+    "status": "Official",
+    "port": 4018,
+    "description": "Protocol information and warnings"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4035,
+    "description": "IBM Rational Developer for System z Remote System Explorer Daemon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4045,
+    "description": "Solaris lockd NFS lock daemon/manager"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4050,
+    "description": "Mud Master Chat protocol (MMCP) - Peer-to-peer communications between MUD clients."
+  },
+  {
+    "status": "Official",
+    "port": 4089,
+    "description": "OpenCORE Remote Control Service"
+  },
+  {
+    "status": "Official",
+    "port": 4090,
+    "description": "Kerio"
+  },
+  {
+    "status": "Official",
+    "port": 4093,
+    "description": "PxPlus Client server interface ProvideX"
+  },
+  {
+    "status": "Official",
+    "port": 4096,
+    "description": "Ascom Timeplex Bridge Relay Element (BRE)"
+  },
+  {
+    "status": "Official",
+    "port": 4105,
+    "description": "Shofar (ShofarNexus)"
+  },
+  {
+    "status": "Official",
+    "port": 4111,
+    "description": "Xgrid"
+  },
+  {
+    "status": "Official",
+    "port": 4116,
+    "description": "Smartcard-TLS"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4117,
+    "description": "WatchGuard System Manager"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4125,
+    "description": "Microsoft Remote Web Workplace administration"
+  },
+  {
+    "status": "Official",
+    "port": 4172,
+    "description": "Teradici PCoIP"
+  },
+  {
+    "status": "Official",
+    "port": 4190,
+    "description": "ManageSieve"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4198,
+    "description": "Escapade Android app"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4201,
+    "description": "TinyMUD and various derivatives"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4222,
+    "description": "NATS server default port "
+  },
+  {
+    "status": "Unofficial",
+    "port": 4226,
+    "description": "Aleph One, a computer game"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4224,
+    "description": "Cisco Audio Session Tunneling"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4242,
+    "description": "Orthanc DICOM default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4242,
+    "description": "Quassel distributed IRC client"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4243,
+    "description": "Docker implementations, redistributions, and setups default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4243,
+    "description": "CrashPlan"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4244,
+    "description": "Viber"
+  },
+  {
+    "status": "Official",
+    "port": 4303,
+    "description": "Simple Railroad Command Protocol (SRCP)"
+  },
+  {
+    "status": "Official",
+    "port": 4307,
+    "description": "TrueConf Client - TrueConf Server media data exchange"
+  },
+  {
+    "status": "Official",
+    "port": 4321,
+    "description": "Referral Whois (RWhois) Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 4352,
+    "description": "PJLink, by JBMIA for controlling projectors via LAN connections"
+  },
+  {
+    "status": "Official",
+    "port": 4443,
+    "description": "Individual Zone Solutions P/L Remote Mail Checking Protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4444,
+    "description": "Oracle WebCenter Content: Content Server—Intradoc Socket port. (formerly known as Oracle Universal Content Management). Port though often changed during installation Metasploit: Default listener port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4444,
+    "description": "Xvfb X server virtual frame buffer service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4445,
+    "description": "I2P HTTP/S proxy"
+  },
+  {
+    "status": "Official",
+    "port": 4486,
+    "description": "Integrated Client Message Service (ICMS)"
+  },
+  {
+    "status": "Official",
+    "port": 4488,
+    "description": "Apple Wide Area Connectivity Service, used by Back to My Mac"
+  },
+  {
+    "status": "Official",
+    "port": 4534,
+    "description": "Microsoft Silverlight connectable ports under non-elevated trust"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4506,
+    "description": "Salt master"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4554,
+    "description": "Default Wesk Self-Hosting Port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4560,
+    "description": "default Log4j socketappender port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4567,
+    "description": "Sinatra default server port in development mode (HTTP)"
+  },
+  {
+    "status": "Official",
+    "port": 4604,
+    "description": "Identity Registration Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 4605,
+    "description": "Direct End to End Secure Chat Protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4640,
+    "description": "QualiSystems TestShell Suite Services"
+  },
+  {
+    "status": "Official",
+    "port": 4662,
+    "description": "OrbitNet Message Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4662,
+    "description": "Default for older versions of eMule"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4664,
+    "description": "Google Desktop Search"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4711,
+    "description": "eMule optional web interface"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4711,
+    "description": "McAfee Web Gateway 7 GUI HTTP default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4712,
+    "description": "McAfee Web Gateway 7 GUI HTTPS default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4713,
+    "description": "PulseAudio sound server"
+  },
+  {
+    "status": "Official",
+    "port": 4728,
+    "description": "Computer Associates Desktop and Server Management (DMP)/Port Multiplexer"
+  },
+  {
+    "status": "Official",
+    "port": 4730,
+    "description": "Gearman's job server"
+  },
+  {
+    "status": "Official",
+    "port": 4739,
+    "description": "IP Flow Information Export"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4747,
+    "description": "Apprentice"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4750,
+    "description": "BladeLogic Agent"
+  },
+  {
+    "status": "Official",
+    "port": 4753,
+    "description": "SIMON (service and discovery)"
+  },
+  {
+    "status": "Official",
+    "port": 4840,
+    "description": "OPC UA TCP Protocol for OPC Unified Architecture from OPC Foundation"
+  },
+  {
+    "status": "Official",
+    "port": 4843,
+    "description": "OPC UA TCP Protocol over TLS/SSL for OPC Unified Architecture from OPC Foundation"
+  },
+  {
+    "status": "Official",
+    "port": 4847,
+    "description": "Web Fresh Communication, Quadrion Software & Odorless Entertainment"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4848,
+    "description": "Java, Glassfish Application Server administration default"
+  },
+  {
+    "status": "Official",
+    "port": 4894,
+    "description": "LysKOM Protocol A"
+  },
+  {
+    "status": "Official",
+    "port": 4899,
+    "description": "Radmin remote administration tool"
+  },
+  {
+    "status": "Official",
+    "port": 4949,
+    "description": "Munin Resource Monitoring Tool"
+  },
+  {
+    "status": "Official",
+    "port": 4950,
+    "description": "Cylon Controls UC32 Communications Port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4982,
+    "description": "Solar Data Log (JK client app for PV solar inverters)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 4993,
+    "description": "Home FTP Server web Interface Default Port"
+  },
+  {
+    "status": "Official",
+    "port": 5000,
+    "description": "commplex-main"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5000,
+    "description": "UPnP—Windows network device interoperability"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5000,
+    "description": "VTun, VPN Software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5000,
+    "description": "Synology Inc. Management Console, File Station, Audio Station"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5000,
+    "description": "Flask Development Webserver"
+  },
+  {
+    "status": "Official",
+    "port": 5000,
+    "description": "Heroku console access"
+  },
+  {
+    "status": "Official",
+    "port": 5001,
+    "description": "commplex-link"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5001,
+    "description": "Slingbox and Slingplayer"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5001,
+    "description": "Iperf (Tool for measuring TCP and UDP bandwidth performance)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5001,
+    "description": "Synology Inc. Secured Management Console, File Station, Audio Station"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5002,
+    "description": "ASSA ARX access control system"
+  },
+  {
+    "status": "Official",
+    "port": 5003,
+    "description": "FileMaker – name binding and transport"
+  },
+  {
+    "status": "Official",
+    "port": 5011,
+    "description": "TelePath (the IBM FlowMark workflow-management system messaging platform)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5029,
+    "description": "Sonic Robo Blast 2 : Multiplayer"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5031,
+    "description": "AVM CAPI-over-TCP (ISDN over Ethernet tunneling)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5037,
+    "description": "Android ADB server"
+  },
+  {
+    "status": "Official",
+    "port": 5048,
+    "description": "Texai Message Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5050,
+    "description": "Yahoo! Messenger"
+  },
+  {
+    "status": "Official",
+    "port": 5051,
+    "description": "ita-agent Symantec Intruder Alert"
+  },
+  {
+    "status": "Official",
+    "port": 5060,
+    "description": "Session Initiation Protocol (SIP)"
+  },
+  {
+    "status": "Official",
+    "port": 5061,
+    "description": "Session Initiation Protocol (SIP) over TLS"
+  },
+  {
+    "status": "Official",
+    "port": 5062,
+    "description": "Localisation access"
+  },
+  {
+    "status": "Official",
+    "port": 5064,
+    "description": "EPICS Channel Access Server"
+  },
+  {
+    "status": "Official",
+    "port": 5065,
+    "description": "EPICS Channel Access Repeater Beacon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5070,
+    "description": "Binary Floor Control Protocol (BFCP)"
+  },
+  {
+    "status": "Official",
+    "port": 5082,
+    "description": "Qpur Communication Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 5083,
+    "description": "Qpur File Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 5084,
+    "description": "EPCglobal Low Level Reader Protocol (LLRP)"
+  },
+  {
+    "status": "Official",
+    "port": 5085,
+    "description": "EPCglobal Low Level Reader Protocol (LLRP) over TLS"
+  },
+  {
+    "status": "Official",
+    "port": 5099,
+    "description": "SafeNet, Inc Sentinel LM, Sentinel RMS, License Manager, server-to-server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5104,
+    "description": "IBM Tivoli Framework NetCOOL/Impact HTTP Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5106,
+    "description": "A-Talk Common connection"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5107,
+    "description": "A-Talk Remote server connection"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5108,
+    "description": "VPOP3 Mail Server Webmail"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5109,
+    "description": "VPOP3 Mail Server Status"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5110,
+    "description": "ProRat Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5121,
+    "description": "Neverwinter Nights"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5124,
+    "description": "TorgaNET (Micronational Darknet)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5125,
+    "description": "TorgaNET (Micronational Intelligence Darknet)"
+  },
+  {
+    "status": "Official",
+    "port": 5150,
+    "description": "ATMP Ascend Tunnel Management Protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5150,
+    "description": "Malware Cerberus RAT"
+  },
+  {
+    "status": "Official",
+    "port": 5151,
+    "description": "ESRI SDE Instance"
+  },
+  {
+    "status": "Official",
+    "port": 5154,
+    "description": "BZFlag"
+  },
+  {
+    "status": "Official",
+    "port": 5172,
+    "description": "PC over IP Endpoint Management"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5176,
+    "description": "ConsoleWorks default UI interface"
+  },
+  {
+    "status": "Official",
+    "port": 5190,
+    "description": "AOL Instant Messenger protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5200,
+    "description": "EchoLink VoIP Amateur Radio Software (Information)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5201,
+    "description": "Iperf3 (Tool for measuring TCP and UDP bandwidth performance)"
+  },
+  {
+    "status": "Official",
+    "port": 5222,
+    "description": "Extensible Messaging and Presence Protocol (XMPP) client connection"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5223,
+    "description": "Apple Push Notification Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5223,
+    "description": "Extensible Messaging and Presence Protocol (XMPP) client connection over SSL"
+  },
+  {
+    "status": "Official",
+    "port": 5228,
+    "description": "HP Virtual Room Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5228,
+    "description": "Google Play, Android Cloud to Device Messaging Service, Google Cloud Messaging"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5242,
+    "description": "Viber"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5243,
+    "description": "Viber"
+  },
+  {
+    "status": "Official",
+    "port": 5269,
+    "description": "Extensible Messaging and Presence Protocol (XMPP) server-to-server connection"
+  },
+  {
+    "status": "Official",
+    "port": 5280,
+    "description": "Extensible Messaging and Presence Protocol (XMPP) XEP-0124: Bidirectional-streams Over Synchronous HTTP (BOSH)"
+  },
+  {
+    "status": "Official",
+    "port": 5281,
+    "description": "Undo License Manager"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5281,
+    "description": "Extensible Messaging and Presence Protocol (XMPP)"
+  },
+  {
+    "status": "Official",
+    "port": 5298,
+    "description": "Extensible Messaging and Presence Protocol (XMPP)"
+  },
+  {
+    "status": "Official",
+    "port": 5310,
+    "description": "Outlaws (1997 video game). Both UDP and TCP are reserved, but only UDP is used"
+  },
+  {
+    "status": "Official",
+    "port": 5349,
+    "description": "STUN (TLS over TCP), a protocol for NAT traversal"
+  },
+  {
+    "status": "Official",
+    "port": 5349,
+    "description": "TURN (TLS over TCP), a protocol for NAT traversal"
+  },
+  {
+    "status": "Official",
+    "port": 5351,
+    "description": "NAT Port Mapping Protocol—client-requested configuration for inbound connections through network address translators"
+  },
+  {
+    "status": "Official",
+    "port": 5355,
+    "description": "Link-Local Multicast Name Resolution (LLMNR), allows hosts to perform name resolution for hosts on the same local link (only provided by Windows Vista and Server 2008)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5357,
+    "description": "Web Services for Devices (WSDAPI) (only provided by Windows Vista, Windows 7 and Server 2008)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5358,
+    "description": "WSDAPI Applications to Use a Secure Channel (only provided by Windows Vista, Windows 7 and Server 2008)"
+  },
+  {
+    "status": "Official",
+    "port": 5402,
+    "description": "mftp, Stratacache OmniCast content delivery system MFTP file sharing protocol"
+  },
+  {
+    "status": "Official",
+    "port": 5405,
+    "description": "NetSupport Manager"
+  },
+  {
+    "status": "Official",
+    "port": 5412,
+    "description": "IBM Rational Synergy (Telelogic Synergy) (Continuus CM) Message Router"
+  },
+  {
+    "status": "Official",
+    "port": 5413,
+    "description": "Wonderware SuiteLink service"
+  },
+  {
+    "status": "Official",
+    "port": 5417,
+    "description": "SNS Agent"
+  },
+  {
+    "status": "Official",
+    "port": 5421,
+    "description": "NetSupport Manager"
+  },
+  {
+    "status": "Official",
+    "port": 5432,
+    "description": "PostgreSQL database system"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5433,
+    "description": "Bouwsoft file/webserver"
+  },
+  {
+    "status": "Official",
+    "port": 5450,
+    "description": "TiePie engineering data acquisition"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5450,
+    "description": "OSIsoft PI Server Client Access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5454,
+    "description": "OSIsoft PI Asset Framework 1.x Client Access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5455,
+    "description": "OSIsoft PI Asset Framework 1.x Client Access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5457,
+    "description": "OSIsoft PI Asset Framework 2.x Client Access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5458,
+    "description": "OSIsoft PI Notifications Client Access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5459,
+    "description": "OSIsoft PI Asset Framework 2.x Client Access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5463,
+    "description": "OSIsoft PI Asset Based Analytics"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5468,
+    "description": "OSIsoft PI Event Driven Notifications Client Access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5480,
+    "description": "VMware VAMI (Virtual Appliance Management Infrastructure)—used for initial setup of various administration settings on Virtual Appliances designed using the VAMI architecture."
+  },
+  {
+    "status": "Unofficial",
+    "port": 5481,
+    "description": "Schneider Electric's ClearSCADA (SCADA implementation for Windows) — used for client-to-server communication."
+  },
+  {
+    "status": "Unofficial",
+    "port": 5495,
+    "description": "IBM Cognos TM1 Admin server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5498,
+    "description": "Hotline tracker server connection"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5500,
+    "description": "VNC remote desktop protocol—for incoming listening viewer, Hotline control connection"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5501,
+    "description": "Hotline file transfer connection"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5517,
+    "description": "Setiqueue Proxy server client for SETI@Home project"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5550,
+    "description": "Hewlett-Packard Data Protector"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5554,
+    "description": "Fastboot default wireless port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5555,
+    "description": "Oracle WebCenter Content: Inbound Refinery—Intradoc Socket port. (formerly known as Oracle Universal Content Management). Port though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5555,
+    "description": "Freeciv versions up to 2.0, Hewlett-Packard Data Protector, McAfee EndPoint Encryption Database Server, SAP, Default for Microsoft Dynamics CRM 4.0, Softether VPN default port"
+  },
+  {
+    "status": "Official",
+    "port": 5556,
+    "description": "Freeciv, Oracle WebLogic Server Node Manager"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5591,
+    "description": "Default for Tidal Enterprise Scheduler master-Socket used for communication between Agent-to-Master, though can be changed"
+  },
+  {
+    "status": "Official",
+    "port": 5631,
+    "description": "pcANYWHEREdata, Symantec pcAnywhere (version 7.52 and later data"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6541,
+    "description": "MirrorOp2 (default)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6542,
+    "description": "MirrorOp2 (fallback)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5656,
+    "description": "IBM Lotus Sametime p2p file transfer"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5666,
+    "description": "NRPE (Nagios)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5667,
+    "description": "NSCA (Nagios)"
+  },
+  {
+    "status": "Official",
+    "port": 5670,
+    "description": "FILEMQ ZeroMQ File Message Queuing Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 5672,
+    "description": "AMQP"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5718,
+    "description": "Microsoft DPM Data Channel (with the agent coordinator)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5719,
+    "description": "Microsoft DPM Data Channel (with the protection agent)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5721,
+    "description": "Kaseya"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5723,
+    "description": "System Center Operations Manager"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5724,
+    "description": "Operations Manager Console"
+  },
+  {
+    "status": "Official",
+    "port": 5741,
+    "description": "IDA Discover Port 1"
+  },
+  {
+    "status": "Official",
+    "port": 5742,
+    "description": "IDA Discover Port 2"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5800,
+    "description": "VNC remote desktop protocol over HTTP"
+  },
+  {
+    "status": "Official",
+    "port": 5814,
+    "description": "Hewlett-Packard Support Automation (HP OpenView Self-Healing Services)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5850,
+    "description": "COMIT SE (PCR)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5852,
+    "description": "Adeona client: communications to OpenDHT"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5881,
+    "description": "SAP Americas Cockpit Framework"
+  },
+  {
+    "status": "Official",
+    "port": 5900,
+    "description": "Remote Frame Buffer protocol (RFB)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5900,
+    "description": "Virtual Network Computing (VNC) remote desktop protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5912,
+    "description": "Tidal Enterprise Scheduler agent default, for Master-to-Agent"
+  },
+  {
+    "status": "Official",
+    "port": 5931,
+    "description": "AMMYY admin Remote Control"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5938,
+    "description": "TeamViewer remote desktop protocol"
+  },
+  {
+    "status": "Official",
+    "port": 5984,
+    "description": "CouchDB database server"
+  },
+  {
+    "status": "Official",
+    "port": 5985,
+    "description": "Windows PowerShell Default psSession Port"
+  },
+  {
+    "status": "Official",
+    "port": 5986,
+    "description": "Windows PowerShell Default psSession Port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 5989,
+    "description": "CIM XML transactions over HTTP/S—VMware vCenter ESXi management"
+  },
+  {
+    "status": "Official",
+    "port": 5999,
+    "description": "CVSup file update tool"
+  },
+  {
+    "status": "Official",
+    "port": 6063,
+    "description": "X11—used between an X client and server over the network"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6005,
+    "description": "Default for BMC Software Control-M/Server—Socket used for communication between Control-M processes—though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6005,
+    "description": "Default for Camfrog chat & cam client"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6009,
+    "description": "JD Edwards EnterpriseOne ERP system JDENet messaging client listener"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6050,
+    "description": "Arcserve backup"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6050,
+    "description": "Nortel software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6051,
+    "description": "Arcserve backup"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6072,
+    "description": "iOperator Protocol Signal Port"
+  },
+  {
+    "status": "Official",
+    "port": 6086,
+    "description": "Peer Distributed Transfer Protocol (PDTP), FTP like file server in a P2P network"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6100,
+    "description": "Vizrt System"
+  },
+  {
+    "status": "Official",
+    "port": 6100,
+    "description": "Ventrilo authentication for version 3"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6101,
+    "description": "Backup Exec Agent Browser"
+  },
+  {
+    "status": "Official",
+    "port": 6110,
+    "description": "softcm, HP Softbench CM"
+  },
+  {
+    "status": "Official",
+    "port": 6111,
+    "description": "spc, HP Softbench Sub-Process Control"
+  },
+  {
+    "status": "Official",
+    "port": 6112,
+    "description": "dtspcd, execute commands and launch applications remotely"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6112,
+    "description": "Blizzard's Battle.net gaming service and some games, ArenaNet gaming service, Relic gaming service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6112,
+    "description": "Club Penguin Disney online game for kids"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6113,
+    "description": "Club Penguin Disney online game for kids, Used by some Blizzard games"
+  },
+  {
+    "status": "Official",
+    "port": 6129,
+    "description": "DameWare Remote Control"
+  },
+  {
+    "status": "Official",
+    "port": 6159,
+    "description": "ARINC 840 EFB Application Control Interface"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6200,
+    "description": "Oracle WebCenter Content Portable: Content Server (With Native UI) and Inbound Refinery"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6201,
+    "description": "Oracle WebCenter Content Portable: Admin"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6225,
+    "description": "Oracle WebCenter Content Portable: Content Server Web UI"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6227,
+    "description": "Oracle WebCenter Content Portable: JavaDB"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6230,
+    "description": "Codenger Dev Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6240,
+    "description": "Oracle WebCenter Content Portable: Capture"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6244,
+    "description": "Oracle WebCenter Content Portable: Content Server—Intradoc Socket port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6255,
+    "description": "Oracle WebCenter Content Portable: Inbound Refinery—Intradoc Socket port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6260,
+    "description": "planet M.U.L.E."
+  },
+  {
+    "status": "Unofficial",
+    "port": 6262,
+    "description": "Sybase Advantage Database Server"
+  },
+  {
+    "status": "Official",
+    "port": 6324,
+    "description": "Hall Research Device discovery and configuration"
+  },
+  {
+    "status": "Official",
+    "port": 6346,
+    "description": "gnutella-svc, gnutella (FrostWire, Limewire, Shareaza, etc.)"
+  },
+  {
+    "status": "Official",
+    "port": 6347,
+    "description": "gnutella-rtr, Gnutella alternate"
+  },
+  {
+    "status": "Official",
+    "port": 6350,
+    "description": "App Discovery and Access Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 6379,
+    "description": "Redis key-value data store"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6389,
+    "description": "EMC CLARiiON"
+  },
+  {
+    "status": "Official",
+    "port": 6432,
+    "description": "PgBouncer—A connection pooler for PostgreSQL"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6436,
+    "description": "Leap Motion Websocket Server TLS"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6437,
+    "description": "Leap Motion Websocket Server"
+  },
+  {
+    "status": "Official",
+    "port": 6444,
+    "description": "Sun Grid Engine Qmaster Service"
+  },
+  {
+    "status": "Official",
+    "port": 6445,
+    "description": "Sun Grid Engine Execution Service"
+  },
+  {
+    "status": "Official",
+    "port": 6513,
+    "description": "NETCONF over TLS"
+  },
+  {
+    "status": "Official",
+    "port": 6514,
+    "description": "Syslog over TLS"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6502,
+    "description": "Netop Remote Control"
+  },
+  {
+    "status": "Official",
+    "port": 6515,
+    "description": "Elipse RPC Protocol (REC)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6522,
+    "description": "Gobby (and other libobby-based software)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6523,
+    "description": "Gobby 0.5 (and other libinfinity-based software)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6543,
+    "description": "Pylons project#Pyramid Default Pylons Pyramid web service port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6556,
+    "description": "Check MK Agent"
+  },
+  {
+    "status": "Official",
+    "port": 6566,
+    "description": "SANE (Scanner Access Now Easy)—SANE network scanner daemon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6561,
+    "description": "Speech-Dispatcher daemon"
+  },
+  {
+    "status": "Official",
+    "port": 6600,
+    "description": "Microsoft Hyper-V Live"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6600,
+    "description": "Music Player Daemon (MPD)"
+  },
+  {
+    "status": "Official",
+    "port": 6601,
+    "description": "Microsoft Forefront Threat Management Gateway"
+  },
+  {
+    "status": "Official",
+    "port": 6602,
+    "description": "Microsoft Windows WSS Communication"
+  },
+  {
+    "status": "Official",
+    "port": 6619,
+    "description": "odette-ftps, Odette File Transfer Protocol (OFTP) over TLS/SSL"
+  },
+  {
+    "status": "Official",
+    "port": 6622,
+    "description": "Multicast FTP"
+  },
+  {
+    "status": "Official",
+    "port": 6653,
+    "description": "Openflow 1.3"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6664,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Official",
+    "port": 6669,
+    "description": "Internet Relay Chat (IRC)"
+  },
+  {
+    "status": "Official",
+    "port": 6679,
+    "description": "Osorno Automation Protocol (OSAUT)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6679,
+    "description": "IRC SSL (Secure Internet Relay Chat)—often used"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6690,
+    "description": "Synology Cloud station"
+  },
+  {
+    "status": "Official",
+    "port": 6697,
+    "description": "IRC SSL (Secure Internet Relay Chat)—often used"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6699,
+    "description": "WinMX (see also 6257)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6702,
+    "description": "Default for Tidal Enterprise Scheduler client-Socket used for communication between Client-to-Master, though can be changed"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6715,
+    "description": "AberMUD and derivatives default port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6785,
+    "description": "Splashtop Remote server broadcast"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6789,
+    "description": "Campbell Scientific Loggernet Software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6789,
+    "description": "Bucky's Instant Messaging Program"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6869,
+    "description": "Derandom default server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6887,
+    "description": "BitTorrent part of full range of ports used most often"
+  },
+  {
+    "status": "Official",
+    "port": 6888,
+    "description": "MUSE"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6888,
+    "description": "BitTorrent part of full range of ports used most often"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6890,
+    "description": "BitTorrent part of full range of ports used most often"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6900,
+    "description": "BitTorrent part of full range of ports used most often"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6900,
+    "description": "Windows Live Messenger (File transfer)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6901,
+    "description": "Windows Live Messenger (Voice)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6901,
+    "description": "BitTorrent part of full range of ports used most often"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6968,
+    "description": "BitTorrent part of full range of ports used most often"
+  },
+  {
+    "status": "Official",
+    "port": 6969,
+    "description": "acmsoda"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6969,
+    "description": "BitTorrent tracker"
+  },
+  {
+    "status": "Unofficial",
+    "port": 6999,
+    "description": "BitTorrent part of full range of ports used most often"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7000,
+    "description": "Default for Vuze's built in HTTPS Bittorrent Tracker"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7000,
+    "description": "Avira Server Management Console"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7001,
+    "description": "Avira Server Management Console"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7001,
+    "description": "Default for BEA WebLogic Server's HTTP server, though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7002,
+    "description": "Default for BEA WebLogic Server's HTTPS server, though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7005,
+    "description": "Default for BMC Software Control-M/Server and Control-M/Agent for Agent-to-Server, though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7006,
+    "description": "Default for BMC Software Control-M/Server and Control-M/Agent for Server-to-Agent, though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7010,
+    "description": "Default for Cisco AON AMC (AON Management Console)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7022,
+    "description": "Database mirroring endpoints"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7025,
+    "description": "Zimbra LMTP —local mail delivery"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7047,
+    "description": "Zimbra conversion server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7070,
+    "description": "Real Time Streaming Protocol (RTSP), used by QuickTime Streaming Server. TCP is used by default, UDP is used as an alternate."
+  },
+  {
+    "status": "Unofficial",
+    "port": 7133,
+    "description": "Enemy Territory: Quake Wars"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7144,
+    "description": "Peercast"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7145,
+    "description": "Peercast"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7171,
+    "description": "Tibia"
+  },
+  {
+    "status": "Official",
+    "port": 7262,
+    "description": "CNAP (Calypso Network Access Protocol)"
+  },
+  {
+    "status": "Official",
+    "port": 7272,
+    "description": "WatchMe - WatchMe Monitoring"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7306,
+    "description": "Zimbra mysql "
+  },
+  {
+    "status": "Unofficial",
+    "port": 7307,
+    "description": "Zimbra mysql "
+  },
+  {
+    "status": "Unofficial",
+    "port": 7396,
+    "description": "Web control interface for Folding@home v7.3.6 and later"
+  },
+  {
+    "status": "Official",
+    "port": 7400,
+    "description": "RTPS (Real Time Publish Subscribe) DDS Discovery"
+  },
+  {
+    "status": "Official",
+    "port": 7401,
+    "description": "RTPS (Real Time Publish Subscribe) DDS User-Traffic"
+  },
+  {
+    "status": "Official",
+    "port": 7402,
+    "description": "RTPS (Real Time Publish Subscribe) DDS Meta-Traffic"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7471,
+    "description": "Stateless Transport Tunneling (STT)"
+  },
+  {
+    "status": "Official",
+    "port": 7473,
+    "description": "Rise: The Vieneo Province"
+  },
+  {
+    "status": "Official",
+    "port": 7474,
+    "description": "Neo4J Server webadmin"
+  },
+  {
+    "status": "Official",
+    "port": 7509,
+    "description": "ACPLT - process automation service"
+  },
+  {
+    "status": "Official",
+    "port": 7547,
+    "description": "CPE WAN Management Protocol (CWMP) Technical Report 069"
+  },
+  {
+    "status": "Official",
+    "port": 7624,
+    "description": "Instrument Neutral Distributed Interface"
+  },
+  {
+    "status": "Official",
+    "port": 7631,
+    "description": "ERLPhase"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7634,
+    "description": "hddtemp—Utility to monitor hard drive temperature"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7654,
+    "description": "I2P anonymizing overlay network"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7660,
+    "description": "I2P anonymizing overlay network"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7670,
+    "description": "BrettspielWelt BSW Boardgame Portal"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7676,
+    "description": "Aqumin AlphaVision Remote Command Interface"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7777,
+    "description": "iChat server file transfer proxy"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7777,
+    "description": "Oracle Cluster File System 2"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7777,
+    "description": "Windows backdoor program tini.exe default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7777,
+    "description": "Just Cause 2: Multiplayer Mod Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7777,
+    "description": "Xivio default Chat Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7777,
+    "description": "Terraria default server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7778,
+    "description": "Bad Trip MUD"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7788,
+    "description": "Unreal Tournament series default server"
+  },
+  {
+    "status": "Official",
+    "port": 7788,
+    "description": "GFI EventsManager 7 & 8"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7831,
+    "description": "Default used by Smartlaunch Internet Cafe Administration software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7880,
+    "description": "PowerSchool Gradebook Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7890,
+    "description": "Default that will be used by the iControl Internet Cafe Suite Administration software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7915,
+    "description": "Default for YSFlight server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 7935,
+    "description": "Fixed port used for Adobe Flash Debug Player to communicate with a debugger (Flash IDE, Flex Builder or fdb)."
+  },
+  {
+    "status": "Unofficial",
+    "port": 8000,
+    "description": "Commonly used for Internet radio streams such as SHOUTcast"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8001,
+    "description": "Commonly used for Internet radio streams such as SHOUTcast"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8002,
+    "description": "Cisco Systems Unified Call Manager Intercluster"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8005,
+    "description": "Tomcat remote shutdown"
+  },
+  {
+    "status": "Official",
+    "port": 8006,
+    "description": "Dell AppAssure 5 API and Replication"
+  },
+  {
+    "status": "Official",
+    "port": 8007,
+    "description": "Dell AppAssure 5 Engine"
+  },
+  {
+    "status": "Official",
+    "port": 8008,
+    "description": "HTTP Alternate"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8008,
+    "description": "IBM HTTP Server administration default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8008,
+    "description": "iCal, a calendar application by Apple"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8009,
+    "description": "ajp13—Apache JServ Protocol AJP Connector"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8010,
+    "description": "XMPP File transfers"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8013,
+    "description": "HTTP/TCP Symon Communications Event and Query Engine"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8014,
+    "description": "HTTP/TCP Symon Communications Event and Query Engine"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8014,
+    "description": "Perseus SDR Receiver default remote connection port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8020,
+    "description": "360Works SuperContainer"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8042,
+    "description": "Orthanc—Default HTTP Port for GUI"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8069,
+    "description": "OpenERP Default HTTP port (web interface and xmlrpc calls)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8070,
+    "description": "OpenERP Legacy netrpc protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8074,
+    "description": "Gadu-Gadu"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8075,
+    "description": "Killing Floor"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8078,
+    "description": "Default port for most Endless Online-based servers"
+  },
+  {
+    "status": "Official",
+    "port": 8080,
+    "description": "HTTP alternate (http_alt)—commonly used for Web proxy and caching server, or for running a Web server as a non-root user"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8080,
+    "description": "Apache Tomcat"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8080,
+    "description": "M2MLogger WebFRONT Cloud connector"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8080,
+    "description": "Atlassian Jira (default port) "
+  },
+  {
+    "status": "Unofficial",
+    "port": 8080,
+    "description": "Vermont Systems / RecTrac Vermont Systems RecTrac (WebTrac) network installer"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8081,
+    "description": "HTTP alternate, VibeStreamer, e.g. McAfee ePolicy Orchestrator (ePO)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8086,
+    "description": "HELM Web Host Automation Windows Control Panel"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8086,
+    "description": "Kaspersky AV Control Center"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8087,
+    "description": "Hosting Accelerator Control Panel"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8087,
+    "description": "Parallels Plesk Control Panel"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8088,
+    "description": "Asterisk (PBX) Web Configuration utility (GUI Addon)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8089,
+    "description": "Splunk REST API endpoint. This port is NOT used for any forwarding or indexing. It is used only for command and control functions."
+  },
+  {
+    "status": "Unofficial",
+    "port": 8089,
+    "description": "AVM Fritzbox for automatic tr069 configuration."
+  },
+  {
+    "status": "Unofficial",
+    "port": 8090,
+    "description": "Atlassian Confluence (default port) "
+  },
+  {
+    "status": "Unofficial",
+    "port": 8090,
+    "description": "Coral Content Distribution Network (deprecated; 80 and 8080 now supported)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8090,
+    "description": "EasyLog Web Application"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8091,
+    "description": "CouchBase Web Administration"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8092,
+    "description": "CouchBase API"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8100,
+    "description": "Console Gateway License Verification"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8111,
+    "description": "JOSM Remote Control"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8112,
+    "description": "PAC Pacifica Coin"
+  },
+  {
+    "status": "Official",
+    "port": 8118,
+    "description": "Privoxy—advertisement-filtering Web proxy"
+  },
+  {
+    "status": "Official",
+    "port": 8123,
+    "description": "Polipo Web proxy"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8123,
+    "description": "Bukkit DynMap Default Webserver Bind Address"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8139,
+    "description": "Puppet (software) Client agent"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8140,
+    "description": "Puppet (software) Master server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8172,
+    "description": "Microsoft Remote Administration for IIS Manager"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8176,
+    "description": "Indigo Domotics Indigo Home automation server—control access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8180,
+    "description": "EasyLog server—management and monitoring"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8184,
+    "description": "NCSA Brown Dog Data Access Proxy"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8194,
+    "description": "Sophos Remote Management System"
+  },
+  {
+    "status": "Official",
+    "port": 8194,
+    "description": "Bloomberg Application"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8195,
+    "description": "Bloomberg Application"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8200,
+    "description": "GoToMyPC"
+  },
+  {
+    "status": "",
+    "port": 8200,
+    "description": "MiniDLNA media server Web Interface"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8222,
+    "description": "VMware Server Management User Interface See also port 8333"
+  },
+  {
+    "status": "Official",
+    "port": 8243,
+    "description": "HTTPS listener for Apache Synapse"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8245,
+    "description": "Dynamic DNS for at least No-IP and DyDNS"
+  },
+  {
+    "status": "Official",
+    "port": 8280,
+    "description": "HTTP listener for Apache Synapse"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8281,
+    "description": "HTTP Listener for Gatecraft Plugin"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8291,
+    "description": "Winbox—Default on a MikroTik RouterOS for a Windows application used to administer MikroTik RouterOS"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8330,
+    "description": "MultiBit HD, "
+  },
+  {
+    "status": "Unofficial",
+    "port": 8331,
+    "description": "MultiBit, "
+  },
+  {
+    "status": "Unofficial",
+    "port": 8332,
+    "description": "Bitcoin JSON-RPC server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8333,
+    "description": "Bitcoin"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8333,
+    "description": "VMware Server Management User Interface See also port 8222"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8337,
+    "description": "VisualSVN Distributed File System Service (VDFS)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8384,
+    "description": "Syncthing web GUI"
+  },
+  {
+    "status": "Official",
+    "port": 8400,
+    "description": "cvd, CommVault Unified Data Management"
+  },
+  {
+    "status": "Official",
+    "port": 8442,
+    "description": "CyBro A-bus, Cybrotech Ltd."
+  },
+  {
+    "status": "Unofficial",
+    "port": 8443,
+    "description": "SW Soft Plesk Control Panel"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8443,
+    "description": "Apache Tomcat SSL"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8443,
+    "description": "Promise WebPAM SSL"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8443,
+    "description": "McAfee ePolicy Orchestrator (ePO)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8443,
+    "description": "iCal over SSL"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8444,
+    "description": "Bitmessage"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8484,
+    "description": "MapleStory Login Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8500,
+    "description": "Adobe ColdFusion built-in web server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8629,
+    "description": "Tibero database"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8642,
+    "description": "Lotus Notes Traveler auto synchronization for Windows Mobile and Nokia devices"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8691,
+    "description": "Ultra Fractal, a fractal generation and rendering software application – distributed calculations over networked computers"
+  },
+  {
+    "status": "Official",
+    "port": 8880,
+    "description": "Alternate port of CDDB (Compact Disc Database) protocol, used to look up audio CD (compact disc) information over the Internet. See also port 888."
+  },
+  {
+    "status": "Official",
+    "port": 8883,
+    "description": "Secure MQTT (MQTT over TLS)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 8983,
+    "description": "Apache Solr"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9000,
+    "description": "SonarQube Web Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9000,
+    "description": "Buffalo LinkSystem Web access"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9000,
+    "description": "DBGp"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9000,
+    "description": "SqueezeCenter web server & streaming"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9000,
+    "description": "Play! Framework web server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9000,
+    "description": "Hadoop NameNode default port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9000,
+    "description": "PHP-FPM default port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9000,
+    "description": "QBittorrent's embedded torrent tracker default port"
+  },
+  {
+    "status": "Official",
+    "port": 9001,
+    "description": "ETL Service Manager"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9001,
+    "description": "DBGp Proxy"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9001,
+    "description": "HSQLDB default port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9006,
+    "description": "Tomcat in standalone mode"
+  },
+  {
+    "status": "Official",
+    "port": 9009,
+    "description": "Pichat Server—Peer to peer chat software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9010,
+    "description": "TISERVICEMANAGEMENT Numara Track-It!"
+  },
+  {
+    "status": "Official",
+    "port": 9020,
+    "description": "WiT WiT Services"
+  },
+  {
+    "status": "Official",
+    "port": 9025,
+    "description": "WiT WiT Services"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9030,
+    "description": "Tor often used"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9042,
+    "description": "Apache Cassandra native protocol clients"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9043,
+    "description": "WebSphere Application Server Administration Console secure"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9051,
+    "description": "Tor"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9060,
+    "description": "WebSphere Application Server Administration Console"
+  },
+  {
+    "status": "Official",
+    "port": 9080,
+    "description": "glrpc, Groove Collaboration software GLRPC"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9080,
+    "description": "WebSphere Application Server HTTP Transport (port 1) default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9080,
+    "description": "Remote Potato by FatAttitude, Windows Media Center addon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9080,
+    "description": "ServerWMC, Windows Media Center addon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9090,
+    "description": "WebSM"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9090,
+    "description": "Webwasher, Secure Web, McAfee Web Gateway—Default Proxy Port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9090,
+    "description": "Openfire Administration Console"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9090,
+    "description": "SqueezeCenter control (CLI)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9090,
+    "description": "Cherokee Admin Panel"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9091,
+    "description": "Openfire Administration Console (SSL Secured)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9091,
+    "description": "Transmission (BitTorrent client) Web Interface"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9092,
+    "description": "H2 (DBMS) Database Server"
+  },
+  {
+    "status": "Official",
+    "port": 9100,
+    "description": "PDL Data Stream, used for printing to certain network printers"
+  },
+  {
+    "status": "Official",
+    "port": 9101,
+    "description": "Bacula Director"
+  },
+  {
+    "status": "Official",
+    "port": 9102,
+    "description": "Bacula File Daemon"
+  },
+  {
+    "status": "Official",
+    "port": 9103,
+    "description": "Bacula Storage Daemon"
+  },
+  {
+    "status": "Official",
+    "port": 9105,
+    "description": "Xadmin Control Daemon"
+  },
+  {
+    "status": "Official",
+    "port": 9106,
+    "description": "Astergate Control Daemon"
+  },
+  {
+    "status": "Official",
+    "port": 9107,
+    "description": "Astergate-FAX Control Daemon"
+  },
+  {
+    "status": "Official",
+    "port": 9119,
+    "description": "MXit Instant Messenger"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9150,
+    "description": "Tor"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9191,
+    "description": "Catamount Software—PocketMoney Sync"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9191,
+    "description": "Sierra Wireless Airlink"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9199,
+    "description": "Avtex LLC—qStats"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9200,
+    "description": "Elasticsearch—default Elasticsearch port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9217,
+    "description": "iPass Platform Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9293,
+    "description": "Sony PlayStation RemotePlay"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9300,
+    "description": "IBM Cognos 8 SOAP Business Intelligence and Performance Management"
+  },
+  {
+    "status": "Official",
+    "port": 9306,
+    "description": "Sphinx Native API"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9309,
+    "description": "Sony PlayStation Vita Host Collaboration WiFi Data Transfer"
+  },
+  {
+    "status": "Official",
+    "port": 9312,
+    "description": "Sphinx SphinxQL"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9332,
+    "description": "Litecoin JSON-RPC server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9333,
+    "description": "Litecoin"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9339,
+    "description": "Clash of Clans, a mobile freemium strategy video game"
+  },
+  {
+    "status": "Official",
+    "port": 9389,
+    "description": "adws, Microsoft AD DS Web Services, Powershell uses this port"
+  },
+  {
+    "status": "Official",
+    "port": 9418,
+    "description": "git, Git pack transfer service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9419,
+    "description": "MooseFS distributed file system – master control port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9420,
+    "description": "MooseFS distributed file system – master command port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9421,
+    "description": "MooseFS distributed file system – master client port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9422,
+    "description": "MooseFS distributed file system – Chunkservers"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9425,
+    "description": "MooseFS distributed file system – CGI server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9443,
+    "description": "VMware Websense Triton console (HTTPS port used for accessing and administrating a vCenter Server via the Web Management Interface)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9443,
+    "description": "NCSA Brown Dog Data Tilling Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9485,
+    "description": "Linz TCP Server Chat TCP Connection used for chat."
+  },
+  {
+    "status": "Official",
+    "port": 9535,
+    "description": "mngsuite, LANDesk Management Suite Remote Control"
+  },
+  {
+    "status": "Official",
+    "port": 9536,
+    "description": "laes-bf, IP Fabrics Surveillance buffering function"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9675,
+    "description": "Spiceworks Desktop, IT Helpdesk Software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9676,
+    "description": "Spiceworks Desktop, IT Helpdesk Software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9785,
+    "description": "Viber"
+  },
+  {
+    "status": "Official",
+    "port": 9800,
+    "description": "WebDAV Source"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9875,
+    "description": "Club Penguin Disney online game for kids"
+  },
+  {
+    "status": "Official",
+    "port": 9898,
+    "description": "MonkeyCom"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9898,
+    "description": "Tripwire—File Integrity Monitoring Software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9981,
+    "description": "TVHeadend HTTP server (web interface)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9982,
+    "description": "TVHeadend HTSP server (Streaming protocol)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9996,
+    "description": "AdRem Software, Inc.'s NetCrunch NetFlow collector port. This port can be changed "
+  },
+  {
+    "status": "Unofficial",
+    "port": 9997,
+    "description": "Splunk port for communication between the forwarders and indexers"
+  },
+  {
+    "status": "Unofficial",
+    "port": 9999,
+    "description": "Lantronix UDS-10/UDS100 RS-485 to Ethernet Converter Telnet control"
+  },
+  {
+    "status": "Official",
+    "port": 10000,
+    "description": "Network Data Management Protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10001,
+    "description": "Lantronix UDS-10/UDS100 RS-485 to Ethernet Converter default"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10003,
+    "description": "ForeScout SecureConnector"
+  },
+  {
+    "status": "Official",
+    "port": 10008,
+    "description": "Octopus Multiplexer, primary port for the CROMP protocol, which provides a platform-independent means for communication of objects across a network"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10009,
+    "description": "Cross Fire, a multiplayer online First Person Shooter"
+  },
+  {
+    "status": "Official",
+    "port": 10010,
+    "description": "Open Object Rexx (ooRexx) rxapi daemon"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10024,
+    "description": "Zimbra smtp "
+  },
+  {
+    "status": "Unofficial",
+    "port": 10025,
+    "description": "Zimbra smtp "
+  },
+  {
+    "status": "Unofficial",
+    "port": 10042,
+    "description": "Mathoid server"
+  },
+  {
+    "status": "Official",
+    "port": 10050,
+    "description": "Zabbix agent"
+  },
+  {
+    "status": "Official",
+    "port": 10051,
+    "description": "Zabbix trapper"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10080,
+    "description": "Touhou fight games (Inmaterial and Missing Power, Scarlet Weather Rhapsody, Hisoutensoku, Ten Desires and Urban Legend in Limbo)"
+  },
+  {
+    "status": "Official",
+    "port": 10110,
+    "description": "NMEA 0183 Navigational Data. Transport of NMEA 0183 sentences over TCP or UDP"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10172,
+    "description": "Intuit Quickbooks client"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10200,
+    "description": "FRISK Software International's fpscand virus scanning daemon for Unix platforms"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10200,
+    "description": "FRISK Software International's f-protd virus scanning daemon for Unix platforms"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10204,
+    "description": "FRISK Software International's f-protd virus scanning daemon for Unix platforms"
+  },
+  {
+    "status": "Official",
+    "port": 10212,
+    "description": "GE Intelligent Platforms Proficy HMI/SCADA – CIMPLICITY WebView"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10301,
+    "description": "AVSystem UMP default device provisioning endpoint"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10302,
+    "description": "AVSystem UMP default device provisioning endpoint (SSL)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10514,
+    "description": "TLS-enabled Rsyslog (default by convention)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 10891,
+    "description": "Jungle Disk (this port is opened by the Jungle Disk Monitor service on the localhost)"
+  },
+  {
+    "status": "Official",
+    "port": 10933,
+    "description": "Listen port used by the Octopus Deploy Tentacle deployment agent"
+  },
+  {
+    "status": "Official",
+    "port": 11001,
+    "description": "metasys ( Johnson Controls Metasys java AC control environment )"
+  },
+  {
+    "status": "Unofficial",
+    "port": 11111,
+    "description": "RiCcI, Remote Configuration Interface (Redhat Linux)"
+  },
+  {
+    "status": "Official",
+    "port": 11112,
+    "description": "ACR/NEMA Digital Imaging and Communications in Medicine (DICOM)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 11155,
+    "description": "Tunngle"
+  },
+  {
+    "status": "Unofficial",
+    "port": 11211,
+    "description": "memcached"
+  },
+  {
+    "status": "Unofficial",
+    "port": 11214,
+    "description": "memcached incoming SSL proxy"
+  },
+  {
+    "status": "Unofficial",
+    "port": 11215,
+    "description": "memcached internal outgoing SSL proxy"
+  },
+  {
+    "status": "Unofficial",
+    "port": 11311,
+    "description": "Robot Operating System master"
+  },
+  {
+    "status": "Official",
+    "port": 11371,
+    "description": "OpenPGP HTTP key server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 11950,
+    "description": "Murraycoin JSON-RPC server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 11951,
+    "description": "Murraycoin"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12007,
+    "description": "NetCrunch 7 port for connection between NetCrunch 7 Server and Administration Console. This port can be changed "
+  },
+  {
+    "status": "Unofficial",
+    "port": 12008,
+    "description": "NetCrunch default connection broker port "
+  },
+  {
+    "status": "Unofficial",
+    "port": 12009,
+    "description": "NetCrunch 8 port for connection between NetCrunch 8 Server and Administration Console. This port can be changed "
+  },
+  {
+    "status": "Unofficial",
+    "port": 12010,
+    "description": "ElevateDB default database port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12011,
+    "description": "Axence nVision"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12012,
+    "description": "Axence nVision"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12012,
+    "description": "Audition Online Dance Battle, Korea Server—Status/Version Check"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12013,
+    "description": "Audition Online Dance Battle, Korea Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12030,
+    "description": "NetCrunch - port for connection between NetCrunch Server and NetCrunch Guard "
+  },
+  {
+    "status": "Unofficial",
+    "port": 12031,
+    "description": "Axence nVision"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12032,
+    "description": "Axence nVision"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12443,
+    "description": "IBM HMC web browser management access over HTTPS instead of default port 443"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12489,
+    "description": "NSClient/NSClient++/NC_Net (Nagios)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 12975,
+    "description": "LogMeIn Hamachi (VPN tunnel software; also port 32976)—used to connect to Mediation Server (bibi.hamachi.cc); will attempt to use SSL (TCP port 443) if both 12975 & 32976 fail to connect"
+  },
+  {
+    "status": "Unofficial",
+    "port": 13001,
+    "description": "ForeScout CounterACT"
+  },
+  {
+    "status": "Unofficial",
+    "port": 13008,
+    "description": "Cross Fire, a multiplayer online First Person Shooter"
+  },
+  {
+    "status": "Official",
+    "port": 13075,
+    "description": "Default for BMC Software Control-M/Enterprise Manager Corba communication, though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 13196,
+    "description": "Ontolux Ontolux 2D"
+  },
+  {
+    "status": "Unofficial",
+    "port": 13340,
+    "description": "ÆtherNet peer-to-peer networking"
+  },
+  {
+    "status": "Official",
+    "port": 13720,
+    "description": "Symantec NetBackup—bprd (formerly VERITAS)"
+  },
+  {
+    "status": "Official",
+    "port": 13721,
+    "description": "Symantec NetBackup—bpdbm (formerly VERITAS)"
+  },
+  {
+    "status": "Official",
+    "port": 13724,
+    "description": "Symantec Network Utility—vnetd (formerly VERITAS)"
+  },
+  {
+    "status": "Official",
+    "port": 13782,
+    "description": "Symantec NetBackup—bpcd (formerly VERITAS)"
+  },
+  {
+    "status": "Official",
+    "port": 13783,
+    "description": "Symantec VOPIED protocol (formerly VERITAS)"
+  },
+  {
+    "status": "Official",
+    "port": 13785,
+    "description": "Symantec NetBackup Database—nbdb (formerly VERITAS)"
+  },
+  {
+    "status": "Official",
+    "port": 13786,
+    "description": "Symantec nomdb (formerly VERITAS)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 14439,
+    "description": "APRS UI-View Amateur Radio UI-WebServer"
+  },
+  {
+    "status": "Unofficial",
+    "port": 14900,
+    "description": "K3 SYSPRO K3 Framework WCF Backbone"
+  },
+  {
+    "status": "Unofficial",
+    "port": 15000,
+    "description": "psyBNC"
+  },
+  {
+    "status": "Unofficial",
+    "port": 15000,
+    "description": "Wesnoth"
+  },
+  {
+    "status": "Unofficial",
+    "port": 15000,
+    "description": "Kaspersky Network Agent"
+  },
+  {
+    "status": "Official",
+    "port": 15000,
+    "description": "hydap, Hypack Hydrographic Software Packages Data Acquisition"
+  },
+  {
+    "status": "Official",
+    "port": 15556,
+    "description": "Jeex.EU Artesia (direct client-to-db.service)"
+  },
+  {
+    "status": "Official",
+    "port": 15345,
+    "description": "XPilot Contact"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16000,
+    "description": "Oracle WebCenter Content: Imaging (formerly known as Oracle Universal Content Management). Port though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16000,
+    "description": "shroudBNC"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16080,
+    "description": "Mac OS X Server Web (HTTP) service with performance cache"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16200,
+    "description": "Oracle WebCenter Content: Content Server (formerly known as Oracle Universal Content Management). Port though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16225,
+    "description": "Oracle WebCenter Content: Content Server Web UI. Port though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16250,
+    "description": "Oracle WebCenter Content: Inbound Refinery (formerly known as Oracle Universal Content Management). Port though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16261,
+    "description": "Project Zomboid Multiplayer Server: Additional sequential ports used for each player connecting to server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16300,
+    "description": "Oracle WebCenter Content: Records Management (formerly known as Oracle Universal Records Management). Port though often changed during installation"
+  },
+  {
+    "status": "Official",
+    "port": 16384,
+    "description": "Hewlett Packard Connected Backup"
+  },
+  {
+    "status": "Unofficial",
+    "port": 16400,
+    "description": "Oracle WebCenter Content: Capture (formerly known as Oracle Document Capture). Port though often changed during installation"
+  },
+  {
+    "status": "Unofficial",
+    "port": 17011,
+    "description": "Worms multiplayer"
+  },
+  {
+    "status": "Official",
+    "port": 17500,
+    "description": "Dropbox LanSync Protocol (db-lsp); used to synchronize file catalogs between Dropbox clients on a local network."
+  },
+  {
+    "status": "Unofficial",
+    "port": 18010,
+    "description": "Super Dancer Online Extreme(SDO-X)—CiB Net Station Malaysia Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18091,
+    "description": "memcached Internal REST HTTPS for SSL"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18092,
+    "description": "memcached Internal CAPI HTTPS for SSL"
+  },
+  {
+    "status": "Official",
+    "port": 18104,
+    "description": "RAD PDF Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18180,
+    "description": "DART Reporting server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18200,
+    "description": "Audition Online Dance Battle, AsiaSoft Thailand Server status/version check"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18201,
+    "description": "Audition Online Dance Battle, AsiaSoft Thailand Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18206,
+    "description": "Audition Online Dance Battle, AsiaSoft Thailand Server FAM database"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18300,
+    "description": "Audition Online Dance Battle, AsiaSoft SEA Server status/version check"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18301,
+    "description": "Audition Online Dance Battle, AsiaSoft SEA Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18306,
+    "description": "Audition Online Dance Battle, AsiaSoft SEA Server FAM database"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18333,
+    "description": "Bitcoin testnet"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18400,
+    "description": "Audition Online Dance Battle, KAIZEN Brazil Server status/version check"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18401,
+    "description": "Audition Online Dance Battle, KAIZEN Brazil Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18505,
+    "description": "Audition Online Dance Battle R4p3 Server, Nexon Server status/version check"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18506,
+    "description": "Audition Online Dance Battle, Nexon Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18605,
+    "description": "X-BEAT status/version check"
+  },
+  {
+    "status": "Unofficial",
+    "port": 18606,
+    "description": "X-BEAT"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19000,
+    "description": "Audition Online Dance Battle, G10/alaplaya Server status/version check"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19001,
+    "description": "Audition Online Dance Battle, G10/alaplaya Server"
+  },
+  {
+    "status": "Official",
+    "port": 19007,
+    "description": "Veejansh Inc. Scintilla Device Service"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19150,
+    "description": "Gkrellm Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19226,
+    "description": "Panda Software AdminSecure Communication Agent"
+  },
+  {
+    "status": "Official",
+    "port": 19283,
+    "description": "K2—KeyAuditor & KeyServer, Sassafras Software Inc. Software Asset Management tools"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19294,
+    "description": "Google Talk Voice and Video connections"
+  },
+  {
+    "status": "Official",
+    "port": 19315,
+    "description": "KeyShadow for K2—KeyAuditor & KeyServer, Sassafras Software Inc. Software Asset Management tools"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19540,
+    "description": "Gamecoin RCP"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19540,
+    "description": "Gamecoin Testnet"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19540,
+    "description": "Gamecoin P2P"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19540,
+    "description": "Belkin Network USB Hub"
+  },
+  {
+    "status": "Unofficial",
+    "port": 19638,
+    "description": "Ensim Control Panel"
+  },
+  {
+    "status": "Official",
+    "port": 19812,
+    "description": "4D database SQL Communication"
+  },
+  {
+    "status": "Official",
+    "port": 19813,
+    "description": "4D database Client Server Communication"
+  },
+  {
+    "status": "Official",
+    "port": 19814,
+    "description": "4D database DB4D Communication"
+  },
+  {
+    "status": "Unofficial",
+    "port": 20202,
+    "description": "OnNet (Net2E)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 20014,
+    "description": "DART Reporting server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 20560,
+    "description": "Killing Floor"
+  },
+  {
+    "status": "Unofficial",
+    "port": 20702,
+    "description": "Precise TPM Listener Agent"
+  },
+  {
+    "status": "Unofficial",
+    "port": 20720,
+    "description": "Symantec i3 Web GUI server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 20790,
+    "description": "Precise TPM Web GUI server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 21001,
+    "description": "AMLFilter, AMLFilter Inc. amlf-admin default port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 21011,
+    "description": "AMLFilter, AMLFilter Inc. amlf-engine-01 default http port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 21012,
+    "description": "AMLFilter, AMLFilter Inc. amlf-engine-01 default https port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 21021,
+    "description": "AMLFilter, AMLFilter Inc. amlf-engine-02 default http port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 21022,
+    "description": "AMLFilter, AMLFilter Inc. amlf-engine-02 default https port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 21025,
+    "description": "Starbound Server (default), Starbound"
+  },
+  {
+    "status": "Unofficial",
+    "port": 22000,
+    "description": "Syncthing (default)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 22136,
+    "description": "FLIR Systems Camera Resource Protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 22222,
+    "description": "Davis Instruments, WeatherLink IP"
+  },
+  {
+    "status": "Official",
+    "port": 22347,
+    "description": "WibuKey, Software protection system"
+  },
+  {
+    "status": "Unofficial",
+    "port": 22349,
+    "description": "Wolfson Microelectronics WISCEBridge Debug Protocol"
+  },
+  {
+    "status": "Official",
+    "port": 22350,
+    "description": "CodeMeter, WIBU-SYSTEMS AG Software protection system"
+  },
+  {
+    "status": "Unofficial",
+    "port": 24441,
+    "description": "Pyzor spam detection network"
+  },
+  {
+    "status": "Official",
+    "port": 24465,
+    "description": "Tonido Directory Server for Tonido which is a Personal Web App and P2P platform"
+  },
+  {
+    "status": "Official",
+    "port": 24554,
+    "description": "BINKP, Fidonet mail transfers over TCP/IP"
+  },
+  {
+    "status": "Official",
+    "port": 25000,
+    "description": "Teamware Office standard client connection"
+  },
+  {
+    "status": "Official",
+    "port": 25001,
+    "description": "Default port for Unity3D networking"
+  },
+  {
+    "status": "Official",
+    "port": 25003,
+    "description": "Teamware Office client notifier"
+  },
+  {
+    "status": "Official",
+    "port": 25005,
+    "description": "Teamware Office message transfer"
+  },
+  {
+    "status": "Official",
+    "port": 25007,
+    "description": "Teamware Office MIME Connector"
+  },
+  {
+    "status": "Unofficial",
+    "port": 25008,
+    "description": "Jayson's Water Fun Connector"
+  },
+  {
+    "status": "Official",
+    "port": 25010,
+    "description": "Teamware Office Agent server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 25105,
+    "description": "Default port for Insteon Hub"
+  },
+  {
+    "status": "Unofficial",
+    "port": 25560,
+    "description": "codeheart.js Relay Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 25565,
+    "description": "Standard Minecraft (Dedicated) Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 25840,
+    "description": "DarknessBlade Network."
+  },
+  {
+    "status": "Unofficial",
+    "port": 25999,
+    "description": "Xfire"
+  },
+  {
+    "status": "Official",
+    "port": 26000,
+    "description": "id Software's Quake server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 26000,
+    "description": "CCP's EVE Online Online gaming MMORPG"
+  },
+  {
+    "status": "Unofficial",
+    "port": 26850,
+    "description": "War of No Return Server Port"
+  },
+  {
+    "status": "Unofficial",
+    "port": 26901,
+    "description": "CCP's EVE Online Online gaming MMORPG"
+  },
+  {
+    "status": "Unofficial",
+    "port": 26950,
+    "description": "GIMA Productions"
+  },
+  {
+    "status": "Unofficial",
+    "port": 27000,
+    "description": "PowerBuilder SySAM license server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 27009,
+    "description": "FlexNet Publisher's License server (from the range of default ports)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 27050,
+    "description": "Steam, file downloads"
+  },
+  {
+    "status": "Unofficial",
+    "port": 28852,
+    "description": "Killing Floor"
+  },
+  {
+    "status": "Unofficial",
+    "port": 29070,
+    "description": "Game titled \"Jedi Knight: Jedi Academy\" by Ravensoft"
+  },
+  {
+    "status": "Unofficial",
+    "port": 29292,
+    "description": "TMO Integration Service Communications Port, Used by Transaction Manager SaaS (HighJump Software)"
+  },
+  {
+    "status": "Unofficial",
+    "port": 30564,
+    "description": "Multiplicity: keyboard/mouse/clipboard sharing software"
+  },
+  {
+    "status": "Unofficial",
+    "port": 31337,
+    "description": "Back Orifice remote administration tool"
+  },
+  {
+    "status": "Official",
+    "port": 31457,
+    "description": "TetriNET"
+  },
+  {
+    "status": "Unofficial",
+    "port": 32137,
+    "description": "Immunet Protect (UDP in version 2.0,)"
+  },
+  {
+    "status": "Official",
+    "port": 32400,
+    "description": "Plex Media Server"
+  },
+  {
+    "status": "Unofficial",
+    "port": 32764,
+    "description": "A backdoor found on certain Linksys, Netgear and other wireless DSL modems/combination routers"
+  },
+  {
+    "status": "Unofficial",
+    "port": 32887,
+    "description": "Ace of Spades, a multiplayer FPS video game"
+  },
+  {
+    "status": "Unofficial",
+    "port": 32976,
+    "description": "LogMeIn Hamachi, a VPN application; also TCP port 12975 and SSL (TCP 443)."
+  },
+  {
+    "status": "Official",
+    "port": 33434,
+    "description": "traceroute"
+  },
+  {
+    "status": "Official",
+    "port": 35357,
+    "description": "OpenStack Identity (Keystone) administration"
+  },
+  {
+    "status": "Official",
+    "port": 40000,
+    "description": "SafetyNET p – a real-time Industrial Ethernet protocol"
+  },
+  {
+    "status": "Unofficial",
+    "port": 44405,
+    "description": "Mu Online Connect Server"
+  },
+  {
+    "status": "Official",
+    "port": 44818,
+    "description": "EtherNet/IP explicit messaging"
+  },
+  {
+    "status": "Official",
+    "port": 47001,
+    "description": "Windows Remote Management Service (WinRM)"
+  },
+  {
+    "status": "Official",
+    "port": 47808,
+    "description": "BACnet Building Automation and Control Networks (4780810 = BAC016)"
+  }
+]
